@@ -1,0 +1,14 @@
+{
+  "name": "french-books",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Original French short stories with optional English translations.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "dev": "node scripts/serve.mjs",
+    "publish:pages": "node scripts/publish.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

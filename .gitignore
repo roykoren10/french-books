@@ -1,0 +1,6 @@
+dist/
+node_modules/
+.taste-skill/
+.impeccable/review/
+.impeccable/cache/
+.DS_Store

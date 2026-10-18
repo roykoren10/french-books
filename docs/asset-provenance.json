@@ -1,0 +1,37 @@
+{
+  "tool": "OpenAI built-in image generation",
+  "style": "Original editorial gouache and coloured-pencil illustrations",
+  "assets": [
+    {
+      "file": "public/assets/a2-covers.png",
+      "grid": {
+        "columns": 3,
+        "rows": 2
+      },
+      "prompt": "Use case: illustration-story. Asset type: one sprite atlas for six square editorial short-story cover illustrations. Create exactly a 3-column by 2-row grid of six equal square illustrations with NO GAPS, NO BORDERS, NO TEXT, NO NUMBERS. Overall image aspect ratio 3:2, high resolution. Every cell must be a separate complete composition, strict boundaries at thirds horizontally and half vertically, nothing spanning cells. Style: sophisticated French picture-book gouache and colored-pencil, tactile paper grain, charming angular architecture, expressive tiny people, warm daylight, sage green, dusty blue, soft ochre, muted rosy red, soft off-white. Not childish, rich narrative detail, beautiful editorial magazine quality. Reading order, left to right, top to bottom: 1 an orange cat sitting outside a little French bakery with a green striped awning, morning sunshine and baskets of baguettes; 2 two young brothers carrying absurdly large shopping bags of carrots in a lively French street market; 3 young woman on a blue bicycle alongside a canal, small arched bridge, ducks; 4 lush rooftop tomato garden with red tomatoes in pots above the rooftops of a French city in summer; 5 two young travellers comparing train tickets at a bright little railway station platform with a train; 6 cosy French bookshop interior with an open book and coffee by a tall window, stacked books and a leafy plant. Every cell filled edge to edge with scenic artwork. Avoid letters, labels, watermarks, typography, border lines."
+    },
+    {
+      "file": "public/assets/b1-covers.png",
+      "grid": {
+        "columns": 3,
+        "rows": 5
+      },
+      "prompt": "Use case: illustration-story. Asset type: ONE high-resolution sprite atlas of fifteen different French short story cover illustrations. Exact layout: THREE COLUMNS and FIVE ROWS, 15 EQUAL SQUARE cells, total aspect ratio 3:5. NO GAPS, NO BORDERS, NO TEXT, NO NUMBERS, no captions. Each cell a completely separate full-bleed scene, confined exactly to its cell with boundaries at 1/3 and 2/3 across and 1/5,2/5,3/5,4/5 down. Rich sophisticated French picture-book gouache and colored-pencil style, tactile paper grain, charming expressive small people, detailed architecture, natural light, muted sage greens, dusty blue, ochre and rose. Not childish. MATCH this precise reading order left to right then top to bottom. Row1: (1) lighthouse keeper proudly holding a homemade cake outside a coastal lighthouse, (2) handwritten map tucked in an open library book with a secret garden visible through a window, (3) elderly radio presenter with headphones in a cosy village radio studio. Row2: (4) lively small French restaurant with a shared wooden table and a waiter, no readable chalkboard, (5) bicycle courier wearing a theatrical golden crown backstage among red theatre curtains, (6) female urban beekeeper tending bees around a tree in a city parking lot. Row3: (7) blue suitcase beside a red tram at Lyon station, (8) violin player beneath a stone bridge by a river and student taking notes nearby, (9) night museum guard with torch looking at miniature sailing ship in glass case. Row4: (10) young woman reading a postcard outside a bakery in gentle rain, (11) elderly woman and young engineer repairing a sewing machine in a cafe workshop, (12) miniature garden railway with a child using a wheelchair beside a tiny station. Row5: (13) photographer with large camera surprised at a village garden birthday party, (14) young woman checking instruments at a snowy mountain weather station under blue sky, (15) canal boat with blank cinema screen and seated village audience at twilight. All fifteen scenes distinct. No labels or written language anywhere."
+    },
+    {
+      "file": "public/assets/b2-covers.png",
+      "grid": {
+        "columns": 3,
+        "rows": 5
+      },
+      "prompt": "Use case: illustration-story. Asset type: ONE high-resolution sprite atlas of fifteen different French literary short story cover illustrations. Exact layout: THREE COLUMNS and FIVE ROWS, 15 EQUAL SQUARE cells, total aspect ratio 3:5. NO GAPS, NO BORDERS, NO TEXT, NO NUMBERS, no captions. Each cell a completely separate full-bleed composition, confined exactly to its cell with boundaries at 1/3 and 2/3 across and 1/5,2/5,3/5,4/5 down. Sophisticated French editorial gouache and colored-pencil style, tactile paper grain, detailed architecture and expressive people, whimsical but not childish, natural lighting, muted sage greens, dusty blue, ochre, rose. Make these 15 DISTINCT scenes in exact reading order left to right then top to bottom. Row1: (1) female scent archivist examining tiny glass perfume bottles in a museum archive, (2) ancient plane tree shading a sunny French town square with people debating beneath it, (3) young software engineer at a computer with many paper apology letters on a bright office desk, no visible text. Row2: (4) artist restoring a beautiful cobalt blue mural on community hall wall, (5) villagers of different ages sitting quietly in a sunny village hall with a smiling contest host, (6) mountain astronomical observatory dome under drifting twilight clouds. Row3: (7) charismatic auctioneer presenting an EMPTY wooden display box to a curious audience, (8) female translator and two chefs discussing menus at a lively outdoor food festival, (9) ginger cat walking through an old courtyard beside architectural plans and a woman architect. Row4: (10) villagers opening a metal time capsule by an old school, (11) female sound engineer with headphones in an atmospheric empty recording studio, (12) neighbours exchanging little illustrated time-voucher cards in a community centre. Row5: (13) small island ferry approaching a fishing harbour in golden evening light, (14) young female weather scientist looking at clouds beside decorated outdoor wedding tables, (15) a notebook and thermos on a beautiful wooden park bench overlooking a French city street, with two people observing other benches nearby. Every cell must fill its square edge to edge, precise 3 by 5 grid. No labels, writing or watermarks."
+    }
+  ],
+  "tileOrder": "Each content JSON's array order maps left-to-right, then top-to-bottom. A2 has an unused sixth bookshop tile.",
+  "font": {
+    "family": "Switzer",
+    "creator": "Indian Type Foundry",
+    "source": "https://www.fontshare.com/fonts/switzer",
+    "license": "public/assets/fonts/FFL.txt"
+  }
+}
