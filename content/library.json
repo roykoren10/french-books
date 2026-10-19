@@ -1,0 +1,89 @@
+{
+  "levels": {
+    "A2": {
+      "count": 15,
+      "atlases": [
+        {
+          "file": "a2-covers.png",
+          "columns": 3,
+          "rows": 2,
+          "count": 5
+        },
+        {
+          "file": "a2-covers-2.png",
+          "columns": 3,
+          "rows": 4,
+          "count": 10
+        }
+      ]
+    },
+    "B1": {
+      "count": 25,
+      "atlases": [
+        {
+          "file": "b1-covers.png",
+          "columns": 3,
+          "rows": 5,
+          "count": 15
+        },
+        {
+          "file": "b1-covers-2-refined.png",
+          "columns": 3,
+          "rows": 4,
+          "count": 10,
+          "sourceWidth": 1086,
+          "sourceHeight": 1448,
+          "columnRanges": [
+            [
+              0,
+              364
+            ],
+            [
+              366,
+              692
+            ],
+            [
+              694,
+              1086
+            ]
+          ],
+          "rowRanges": [
+            [
+              0,
+              361
+            ],
+            [
+              362,
+              719
+            ],
+            [
+              720,
+              1059
+            ],
+            [
+              1060,
+              1448
+            ]
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "count": 25,
+      "atlases": [
+        {
+          "file": "b2-covers.png",
+          "columns": 3,
+          "rows": 5,
+          "count": 15
+        },
+        {
+          "file": "b2-covers-2.png",
+          "columns": 3,
+          "rows": 4,
+          "count": 10
+        }
+      ]
+    }
+  }
+}

@@ -20,7 +20,7 @@ An inviting collection of original short French stories with optional English tr
 
 ## Capabilities and Constraints
 
-- Five A2, fifteen B1, and fifteen B2 stories.
+- Fifteen A2, twenty-five B1, and twenty-five B2 stories (65 total).
 - Different themes, characters, and settings; a mixture of humour, intrigue, culture, and gentle drama. Avoid very sad stories.
 - A CEFR level picker, thumbnails for every story, paragraph translation toggles, and switchable dark/light themes.
 - Short reading sessions: five paragraphs per story, approximately one or two pages.

@@ -4,7 +4,7 @@ The user delegated all design decisions and explicitly requested no questions. A
 
 ## Subject inventory
 
-35 original stories; five A2, fifteen B1, fifteen B2; five paragraphs per story; a hidden English counterpart to each paragraph; funny and hopeful endings; a cat at a bakery; French railway platforms; rooftop gardens; mystery maps; astronomy; language practice in short reading sessions; page-like reading surfaces.
+65 original stories; fifteen A2, twenty-five B1, twenty-five B2; five paragraphs per story; a hidden English counterpart to each paragraph; funny and hopeful endings; a cat at a bakery; French railway platforms; rooftop gardens; mystery maps; astronomy; language practice in short reading sessions; page-like reading surfaces.
 
 ## Argument and copy deck
 
@@ -15,6 +15,6 @@ The user delegated all design decisions and explicitly requested no questions. A
 
 ## Idea and live interaction
 
-On this page, the collection's 35 paired-language manuscripts become a little paperback library. The live mechanism is selecting a level and opening an English counterpart only when the reader wants it.
+On this page, the collection's 65 paired-language manuscripts become a little paperback library. The live mechanism is selecting a level and opening an English counterpart only when the reader wants it.
 
 Taste direction: page-is-the-object, seed 1445470789. No redraws. Its functional story catalogue uses repeated covers and its reader uses normal text measure; marketing-specific motion and giant typography are restricted to the library's cover panel. This is a reading product, so motion never interrupts prose.

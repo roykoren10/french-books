@@ -463,5 +463,315 @@
         "en": "The barge returned three weeks later with a repaired projector. Before the film, Salomé played a short edited version of the testimonies, accompanied by photographs lent by residents. The applause began long before the feature film's opening credits. The lady in the hat wanted to know when the next interview would take place. Salomé then added a new line to the boat's poster: 'A film, and the stories of those watching it.' The canal now seemed full of screening rooms she had yet to discover."
       }
     ]
+  },
+  {
+    "id": "b1-le-robot-de-minuit",
+    "level": "B1",
+    "title": "Le robot de minuit",
+    "englishTitle": "The Midnight Robot",
+    "theme": "Science",
+    "description": "A student investigates why her workshop robot keeps rearranging shoes after everyone has gone home.",
+    "imageQuery": "young woman robotics workshop small wheeled robot shoes",
+    "paragraphs": [
+      {
+        "fr": "Dans l'atelier de son école, Nora construisait un petit robot capable de porter des livres. Il avait quatre roues, un plateau rouge et deux yeux dessinés par son frère. Chaque soir, elle le rangeait sous sa table avant de rentrer. Pourtant, depuis lundi, elle le retrouvait près de la porte. Des chaussures qui servaient aux exercices étaient alignées autour de lui, comme si une classe invisible avait attendu le début d'un cours.",
+        "en": "In her school's workshop, Nora was building a little robot that could carry books. It had four wheels, a red tray and two eyes drawn by her brother. Every evening she put it under her table before going home. Yet since Monday she had found it beside the door. Shoes used for exercises were lined up around it, as though an invisible class had been waiting for a lesson to begin."
+      },
+      {
+        "fr": "Nora accusa d'abord son camarade Basile de préparer une plaisanterie. Il aimait beaucoup donner des noms aux machines et avait appelé celle-ci Monsieur Pantoufle. Mais Basile lui montra ses billets de cinéma : la veille, il avait quitté l'école bien avant elle. Ensemble, ils examinèrent les roues et les boutons sans trouver de défaut. Leur professeur leur conseilla de noter les faits au lieu d'inventer immédiatement une explication. Nora prépara donc un tableau d'observation.",
+        "en": "At first Nora accused her classmate Basile of playing a joke. He loved giving machines names and had called this one Mr Slipper. But Basile showed her his cinema tickets: the previous evening he had left school well before her. Together they examined the wheels and buttons without finding a fault. Their teacher advised them to record the facts instead of immediately inventing an explanation. Nora therefore prepared an observation chart."
+      },
+      {
+        "fr": "Le jeudi, avec l'autorisation du professeur, ils restèrent dans la salle voisine après les cours. À dix-neuf heures, un bruit léger traversa le mur. Ils entrèrent et virent le robot avancer vers une botte. Il la poussa doucement jusqu'à la porte, puis revint chercher une chaussure de sport. Nora regarda son ordinateur : le programme de transport ne fonctionnait pas. En revanche, une petite lumière verte clignotait sur le côté de la machine, près du capteur.",
+        "en": "On Thursday, with their teacher's permission, they stayed in the next room after lessons. At seven a faint noise came through the wall. They went in and saw the robot moving towards a boot. It gently pushed it to the door, then returned for a trainer. Nora looked at her computer: the transport program was not running. However, a small green light was flashing on the side of the machine, near the sensor."
+      },
+      {
+        "fr": "Basile remarqua alors que les lampes du plafond venaient de s'éteindre automatiquement. Le robot possédait encore un ancien programme qui lui faisait suivre les objets sombres vers une zone claire. La lumière du couloir restait allumée, tandis que les chaussures formaient des taches noires sur le sol. Ils reproduisirent la situation avec une boîte et obtinrent le même résultat. Monsieur Pantoufle ne rêvait pas : il exécutait simplement un exercice oublié depuis le début du trimestre.",
+        "en": "Basile then noticed that the ceiling lights had just switched off automatically. The robot still had an old program that made it follow dark objects towards a bright area. The corridor light stayed on, while the shoes made black patches on the floor. They recreated the situation with a box and got the same result. Mr Slipper was not dreaming: it was simply carrying out an exercise forgotten since the start of term."
+      },
+      {
+        "fr": "Nora désactiva l'ancien programme et ajouta un arrêt automatique pour la nuit. Lors de la présentation finale, le robot transporta parfaitement trois dictionnaires jusqu'au bureau du professeur. Basile avait cependant placé une paire de pantoufles sur le plateau, avec une étiquette qui disait : « Livraison urgente. » Toute la classe rit. Nora conserva les yeux dessinés par son frère et ajouta un petit panneau sur la machine. On pouvait y lire ses horaires de travail et de sommeil.",
+        "en": "Nora disabled the old program and added an automatic nighttime shutdown. During the final presentation, the robot carried three dictionaries perfectly to the teacher's desk. Basile had nevertheless put a pair of slippers on the tray, with a label saying 'Urgent delivery.' The whole class laughed. Nora kept the eyes her brother had drawn and added a small sign to the machine. It displayed its working and sleeping hours."
+      }
+    ]
+  },
+  {
+    "id": "b1-la-course-du-dimanche",
+    "level": "B1",
+    "title": "La course du dimanche",
+    "englishTitle": "The Sunday Race",
+    "theme": "Everyday life",
+    "description": "A swimming instructor enters a race with her father and discovers that their plans are very different.",
+    "imageQuery": "adult daughter elderly father municipal swimming pool race",
+    "paragraphs": [
+      {
+        "fr": "Élodie donnait des cours de natation dans une piscine municipale. Quand elle vit l'affiche d'une course familiale, elle inscrivit son père sans lui demander son avis. À soixante-deux ans, Bernard nageait tous les dimanches, mais il refusait toujours les compétitions. « Nous formerons une équipe, chacun fera deux longueurs », expliqua-t-elle au téléphone. Il accepta après un long silence, à condition qu'elle ne lui achète pas un bonnet avec son prénom écrit en grandes lettres.",
+        "en": "Élodie taught swimming at a municipal pool. When she saw a poster for a family race, she entered her father without asking him. At sixty-two Bernard swam every Sunday, but always refused competitions. 'We'll be a team; each of us will do two lengths,' she explained on the phone. After a long silence he agreed, provided she did not buy him a cap with his name in large letters."
+      },
+      {
+        "fr": "Pendant les semaines suivantes, Élodie prépara un programme précis. Elle chronométrait chaque longueur et corrigeait la position des bras de son père. Bernard suivait ses conseils, mais regardait souvent l'horloge. Un soir, il sortit de l'eau avant la fin de la séance. Elle pensa qu'il était fatigué et proposa des exercices plus faciles. « Je ne suis pas ton élève », répondit-il doucement. Ces quelques mots la surprirent davantage qu'une mauvaise performance ne l'aurait fait.",
+        "en": "Over the following weeks Élodie prepared a precise schedule. She timed every length and corrected her father's arm position. Bernard followed her advice but often looked at the clock. One evening he got out before the session ended. She thought he was tired and suggested easier exercises. 'I'm not your pupil,' he replied gently. Those few words surprised her more than a poor performance would have."
+      },
+      {
+        "fr": "Le samedi, elle passa chez lui pour parler de la course. Sur la table, elle trouva une vieille photographie : Bernard la tenait dans ses bras au bord d'un bassin. Elle avait trois ans et portait des brassards jaunes. Il raconta qu'elle refusait alors de mettre la tête dans l'eau. Pour la rassurer, il avait inventé un jeu de poissons. Il n'avait jamais mesuré ses progrès avec une montre. Élodie rangea discrètement son chronomètre dans son sac.",
+        "en": "On Saturday she visited him to talk about the race. On the table she found an old photograph: Bernard was holding her beside a pool. She was three and wore yellow armbands. He explained that she had refused to put her head underwater. To reassure her he had invented a fish game. He had never measured her progress with a watch. Élodie quietly put her stopwatch in her bag."
+      },
+      {
+        "fr": "Le dimanche, les équipes attendaient devant leurs lignes. Bernard avait apporté deux bonnets jaunes tout simples. Quand le signal retentit, Élodie partit rapidement, puis toucha le mur pour laisser son père continuer. À mi-parcours, il perdit ses lunettes. Il s'arrêta pour les remettre, tandis que plusieurs nageurs passaient devant lui. Elle sentit revenir son envie de crier des instructions. Puis elle applaudit seulement, comme il l'avait fait pendant ses premières traversées du petit bassin des enfants.",
+        "en": "On Sunday the teams waited in front of their lanes. Bernard had brought two plain yellow caps. When the signal sounded, Élodie set off quickly, then touched the wall to let her father continue. Halfway through he lost his goggles. He stopped to replace them while several swimmers passed him. She felt the urge to shout instructions return. Then she simply applauded, as he had during her first crossings of the children's pool."
+      },
+      {
+        "fr": "Ils terminèrent sixièmes sur huit équipes. Bernard sortit de l'eau en riant et réclama un chocolat chaud, qu'il considérait comme sa véritable récompense. Au café de la piscine, Élodie lui demanda s'il voudrait revenir le dimanche suivant. Il répondit oui, mais pour nager sans course et sans programme. Elle accepta. Avant de partir, ils prirent une photographie avec leurs bonnets jaunes. Cette fois, c'était Bernard qui avait oublié d'enlever ses lunettes, et sa fille qui le tenait par les épaules.",
+        "en": "They finished sixth out of eight teams. Bernard came out laughing and demanded hot chocolate, which he considered his real reward. In the pool café Élodie asked whether he would return the following Sunday. He said yes, but to swim without a race or a schedule. She agreed. Before leaving they took a photograph in their yellow caps. This time Bernard had forgotten to remove his goggles, and his daughter was holding him by the shoulders."
+      }
+    ]
+  },
+  {
+    "id": "b1-un-elephant-dans-le-jardin",
+    "level": "B1",
+    "title": "Un éléphant dans le jardin",
+    "englishTitle": "An Elephant in the Garden",
+    "theme": "Nature",
+    "description": "An apprentice gardener must rescue a giant green elephant after a storm bends its trunk.",
+    "imageQuery": "young male gardener elephant shaped hedge garden shears",
+    "paragraphs": [
+      {
+        "fr": "Pour son premier emploi, Jules entretenait le jardin d'un hôtel installé dans une ancienne ferme. La propriétaire était particulièrement fière d'un grand buisson taillé en forme d'éléphant. Chaque semaine, Jules devait couper les petites branches qui dépassaient des oreilles. Il trouvait ce travail amusant, même si l'animal semblait toujours le regarder avec reproche. Un jeudi, une forte pluie tomba pendant la nuit. Le lendemain, la trompe verte touchait presque le sol et cachait entièrement l'entrée du chemin.",
+        "en": "For his first job Jules maintained the garden of a hotel in an old farm. The owner was particularly proud of a large bush trimmed into an elephant. Every week Jules had to cut the little branches sticking out of its ears. He found the work amusing, even though the animal always seemed to look at him reproachfully. One Thursday heavy rain fell overnight. The next morning the green trunk almost touched the ground and completely hid the path entrance."
+      },
+      {
+        "fr": "La propriétaire attendait un groupe de visiteurs qui avaient réservé une visite du jardin. « Pourriez-vous lui relever la tête avant quatre heures ? » demanda-t-elle. Jules n'avait jamais réparé un éléphant. Il chercha des conseils dans ses livres, puis appela son ancien maître de stage. Celui-ci lui recommanda d'examiner d'abord le support métallique, car une branche humide n'était pas forcément cassée. Jules posa son sécateur et écarta prudemment les feuilles pour regarder à l'intérieur du buisson.",
+        "en": "The owner was expecting visitors who had booked a garden tour. 'Could you lift its head before four?' she asked. Jules had never repaired an elephant. He looked for advice in his books, then called his former placement supervisor. The man recommended first examining the metal support, since a wet branch was not necessarily broken. Jules put down his secateurs and carefully parted the leaves to look inside the bush."
+      },
+      {
+        "fr": "Le support s'était détaché d'un vieux poteau. Cependant, en se penchant, Jules aperçut un nid vide entre deux branches. Un merle apportait encore de l'herbe à cet endroit. S'il soulevait toute la trompe, il risquait de détruire le nouveau logement de l'oiseau. Il prévint la propriétaire et proposa de fermer temporairement le petit chemin. Elle regarda sa montre, puis l'éléphant. Les visiteurs avaient payé pour voir un jardin élégant, pas un passage barré par des cordes.",
+        "en": "The support had come loose from an old post. However, bending down, Jules spotted an empty nest between two branches. A blackbird was still bringing grass there. If he lifted the whole trunk, he might destroy the bird's new home. He told the owner and suggested temporarily closing the small path. She looked at her watch, then at the elephant. The visitors had paid to see an elegant garden, not a passage blocked by ropes."
+      },
+      {
+        "fr": "Jules dessina alors un autre parcours qui passait derrière l'animal. On y découvrait une mare, des herbes parfumées et un banc souvent oublié. Il installa un support provisoire sous la partie extérieure de la trompe, sans toucher aux branches du nid. Puis il écrivit un panneau : « Notre éléphant s'occupe de son jardin intérieur. » La propriétaire finit par sourire. À quatre heures, Jules accueillit les visiteurs et expliqua simplement pourquoi ils allaient prendre un chemin différent ce jour-là.",
+        "en": "Jules then drew another route behind the animal. It revealed a pond, fragrant herbs and an often forgotten bench. He installed temporary support under the outer part of the trunk without touching the nest branches. Then he wrote a sign: 'Our elephant is tending its inner garden.' The owner finally smiled. At four Jules welcomed the visitors and simply explained why they would take a different path that day."
+      },
+      {
+        "fr": "La visite dura plus longtemps que prévu, car une visiteuse connaissait le nom de chaque plante près de la mare. Quelques semaines plus tard, après le départ des jeunes oiseaux, Jules put fixer un nouveau support solide. Il donna pourtant à la trompe une courbe légèrement plus basse. La propriétaire aimait cette position qui semblait saluer les promeneurs. Quant au banc oublié, il devint sa place préférée pour boire le café du matin, avec l'éléphant silencieux derrière son journal.",
+        "en": "The tour lasted longer than expected because one visitor knew every plant beside the pond. A few weeks later, after the young birds had left, Jules could fit a sturdy new support. Yet he gave the trunk a slightly lower curve. The owner liked this position, which seemed to greet walkers. As for the forgotten bench, it became her favourite place for morning coffee, with the silent elephant behind her newspaper."
+      }
+    ]
+  },
+  {
+    "id": "b1-les-cailloux-du-volcan",
+    "level": "B1",
+    "title": "Les cailloux du volcan",
+    "englishTitle": "The Volcano Stones",
+    "theme": "Adventure",
+    "description": "A school trip takes an unexpected turn when a student challenges a guide with a pocketful of stones.",
+    "imageQuery": "school teenagers female guide extinct volcano black stones trail",
+    "paragraphs": [
+      {
+        "fr": "La classe de Farid visitait un ancien volcan au centre de la France. Depuis le départ du car, il imaginait un sommet rouge et des rivières de feu. À l'arrivée, il découvrit une colline verte où des moutons mangeaient tranquillement. Il cacha mal sa déception. Leur guide, Aline, lui demanda ce qu'il espérait voir. « Au moins quelque chose qui ressemble à un volcan », répondit-il. Elle lui promit une surprise, à condition qu'il garde les yeux ouverts pendant la montée.",
+        "en": "Farid's class was visiting an ancient volcano in central France. Since the coach had left he had imagined a red summit and rivers of fire. On arrival he discovered a green hill where sheep grazed peacefully. He barely hid his disappointment. Their guide Aline asked what he hoped to see. 'At least something that looks like a volcano,' he replied. She promised a surprise, provided he kept his eyes open during the climb."
+      },
+      {
+        "fr": "Aline distribua des fiches où figuraient trois photographies de roches. Les élèves devaient retrouver leurs couleurs et leurs formes sur le parcours, sans ramasser les pierres du site. Farid marchait avec Chloé, qui dessinait mieux qu'elle ne courait. Elle s'arrêtait souvent pour observer les détails. Lui voulait atteindre rapidement le sommet. Quand ils arrivèrent devant une ancienne carrière visible depuis le chemin, il remarqua enfin une paroi noire percée de petits trous et posa sa première question.",
+        "en": "Aline handed out sheets with three photographs of rocks. The pupils had to find their colours and shapes along the route without collecting stones from the site. Farid walked with Chloé, who drew better than she ran. She often stopped to observe details. He wanted to reach the summit quickly. When they reached an old quarry visible from the path, he finally noticed a black wall full of little holes and asked his first question."
+      },
+      {
+        "fr": "La guide expliqua que certains trous avaient été formés par des gaz dans la matière chaude. Farid sortit alors de sa poche un caillou très semblable. Il l'avait apporté de chez lui pour comparer. Son grand-père affirmait l'avoir trouvé sur une plage, loin des volcans. Plusieurs élèves se rapprochèrent. Aline examina la pierre, mais refusa de donner une réponse immédiate. « Deux objets peuvent se ressembler et avoir des histoires différentes. Nous regarderons cela au centre après la promenade. »",
+        "en": "The guide explained that some holes had been formed by gases in the hot material. Farid then took a very similar stone from his pocket. He had brought it from home for comparison. His grandfather claimed to have found it on a beach, far from volcanoes. Several pupils came closer. Aline examined the stone but refused to answer immediately. 'Two objects can look alike and have different histories. We'll look at it at the centre after the walk.'"
+      },
+      {
+        "fr": "Au sommet, Chloé lui montra son dessin du paysage. Elle avait représenté le grand creux central que Farid n'avait pas remarqué. La colline était bien un volcan, même sans fumée. Il dessina lui aussi, avec beaucoup de difficultés et plusieurs ratures. Après le pique-nique, ils rejoignirent le centre, où Aline sortit une loupe et une boîte d'échantillons. Le caillou de Farid contenait de petits morceaux brillants et semblait plus lourd que la roche noire observée pendant la montée.",
+        "en": "At the summit Chloé showed him her landscape drawing. She had depicted the large central hollow Farid had not noticed. The hill really was a volcano, even without smoke. He drew too, with considerable difficulty and several corrections. After the picnic they returned to the centre, where Aline brought out a magnifier and a sample box. Farid's stone contained little shiny pieces and seemed heavier than the black rock seen during the climb."
+      },
+      {
+        "fr": "Aline pensait qu'il s'agissait d'un reste de fabrication industrielle, mais conseilla de demander une confirmation au musée local. Farid nota cette possibilité sur sa fiche. Le soir, il téléphona à son grand-père pour lui raconter l'enquête. Celui-ci se souvint alors d'une ancienne usine près de la plage. Farid posa la pierre à côté de son dessin. Il avait quitté le volcan sans souvenir acheté, mais avec deux questions nouvelles et l'envie de retourner observer cette plage pendant les vacances.",
+        "en": "Aline thought it was a remnant of industrial manufacturing but recommended asking the local museum for confirmation. Farid recorded this possibility on his sheet. That evening he phoned his grandfather to describe the investigation. The man then remembered an old factory near the beach. Farid placed the stone beside his drawing. He had left the volcano without a purchased souvenir, but with two new questions and a wish to revisit that beach during the holidays."
+      }
+    ]
+  },
+  {
+    "id": "b1-la-soupe-sans-image",
+    "level": "B1",
+    "title": "La soupe sans image",
+    "englishTitle": "Soup Without Pictures",
+    "theme": "Humour",
+    "description": "Two cousins record a cooking podcast, but an unexpected ingredient changes both their recipe and their carefully prepared script.",
+    "imageQuery": "two young cousins kitchen microphones green soup headphones",
+    "paragraphs": [
+      {
+        "fr": "Tous les vendredis, les cousins Rania et Victor enregistraient une émission de cuisine dans leur appartement. Les auditeurs entendaient les casseroles et leurs discussions, mais ne voyaient jamais les plats. Rania écrivait chaque phrase à l'avance, tandis que Victor préférait parler librement. Pour leur vingtième épisode, ils avaient prévu une soupe orange, très simple à décrire. Ils avaient même acheté des bols assortis, bien que personne ne puisse les voir à travers un casque ou une enceinte.",
+        "en": "Every Friday cousins Rania and Victor recorded a cooking programme in their flat. Listeners heard saucepans and their conversations but never saw the dishes. Rania wrote every sentence beforehand, while Victor preferred speaking freely. For their twentieth episode they planned an orange soup, very easy to describe. They had even bought matching bowls, although nobody could see them through headphones or a speaker."
+      },
+      {
+        "fr": "Le matin de l'enregistrement, Victor alla chercher les légumes chez un producteur. Il revint avec un sac rempli de carottes, mais aussi une grosse poignée d'herbes qu'on lui avait offertes. Pendant que Rania vérifiait les micros dans le salon, il ajouta les feuilles dans la casserole. Quand elle rentra dans la cuisine, la soupe avait une couleur verte assez surprenante. Elle consulta son texte, dont la première phrase annonçait une assiette aussi orange qu'un coucher de soleil.",
+        "en": "On recording morning Victor collected vegetables from a grower. He returned with carrots and a large handful of herbs he had been given. While Rania checked the microphones in the living room, he added the leaves to the saucepan. When she returned to the kitchen the soup was a surprising green. She checked her script, whose first sentence announced a bowl as orange as a sunset."
+      },
+      {
+        "fr": "Ils goûtèrent le mélange. Il était bon, mais Victor ignorait le nom d'une des herbes. Rania refusa de présenter une recette dont ils ne connaissaient pas tous les ingrédients. Ils appelèrent donc le producteur, qui identifia immédiatement les feuilles : c'était du persil plat, vendu à côté de la menthe. Victor avait mélangé les deux bottes dans son sac. Rania prit une feuille blanche et réécrivit les quantités après avoir pesé les légumes qui restaient sur la table.",
+        "en": "They tasted the mixture. It was good, but Victor did not know one herb's name. Rania refused to present a recipe when they did not know every ingredient. They called the grower, who immediately identified the leaves: flat-leaf parsley, sold beside mint. Victor had mixed both bunches in his bag. Rania took a blank sheet and rewrote the quantities after weighing the vegetables left on the table."
+      },
+      {
+        "fr": "Au début de l'enregistrement, elle essaya malgré tout de suivre son ancien texte. Victor lui demanda pourquoi elle parlait encore d'un coucher de soleil. Elle s'arrêta, puis éclata de rire devant le micro. Ils racontèrent alors ce qui s'était passé et décrivirent précisément le goût de leur soupe. On entendit une cuillère tomber et Victor chercher un torchon. Pour la première fois, Rania oublia de vérifier la durée. Leur conversation ressemblait davantage à un dîner qu'à une leçon.",
+        "en": "At the start of recording she nevertheless tried to follow her old script. Victor asked why she was still talking about a sunset. She stopped, then burst out laughing into the microphone. They explained what had happened and described the soup's taste precisely. A spoon could be heard falling and Victor searching for a cloth. For the first time Rania forgot to check the time. Their conversation sounded more like dinner than a lesson."
+      },
+      {
+        "fr": "Le lendemain, plusieurs auditeurs envoyèrent des messages pour demander s'ils riaient ainsi chaque soir. Une personne avait préparé la soupe et proposé d'y ajouter du citron. Rania conserva sa méthode pour les quantités et les étapes, mais laissa désormais une page vide après la liste des ingrédients. Victor accrocha cette page au réfrigérateur. « C'est pour les accidents ? » demanda-t-il. « Pour les conversations », répondit-elle. Puis elle photographia les deux bols verts, simplement pour leur album de famille.",
+        "en": "The next day several listeners sent messages asking whether they laughed like that every evening. One person had made the soup and suggested adding lemon. Rania kept her method for quantities and steps but now left a blank page after the ingredient list. Victor pinned it to the fridge. 'Is it for accidents?' he asked. 'For conversations,' she replied. Then she photographed the two green bowls, simply for their family album."
+      }
+    ]
+  },
+  {
+    "id": "b1-le-manteau-du-dragon",
+    "level": "B1",
+    "title": "Le manteau du dragon",
+    "englishTitle": "The Dragon Coat",
+    "theme": "Culture",
+    "description": "A costume shop assistant discovers why an unusually serious customer needs a dragon outfit before lunchtime.",
+    "imageQuery": "costume rental shop woman green dragon costume mirrors",
+    "paragraphs": [
+      {
+        "fr": "Camille travaillait depuis une semaine dans une boutique qui louait des costumes. Elle connaissait déjà l'emplacement des couronnes, des robes et des fausses moustaches, mais confondait encore les numéros des cintres. Un mardi matin, un homme en costume gris entra avec une petite valise. Il demanda un dragon vert, assez grand pour cacher ses chaussures. Camille crut qu'il préparait un spectacle pour enfants. Pourtant, il parla d'une réunion importante et consulta sa montre avec une inquiétude très professionnelle.",
+        "en": "Camille had worked for a week in a costume rental shop. She already knew where the crowns, dresses and false moustaches were, but still mixed up the hanger numbers. One Tuesday morning a man in a grey suit entered with a small case. He requested a green dragon large enough to hide his shoes. Camille thought he was preparing a children's show. Yet he mentioned an important meeting and checked his watch with very professional anxiety."
+      },
+      {
+        "fr": "Le seul dragon disponible avait une fermeture cassée. Camille proposa un crocodile, puis une grenouille, mais le client secoua la tête. « J'ai promis un dragon. Si je change maintenant, elle pensera que j'ai eu peur. » Il s'appelait Laurent et dirigeait une entreprise de meubles. Sa fille avait organisé une présentation à l'école et lui avait demandé de jouer le personnage principal de son histoire. Après plusieurs réunions manquées, il avait promis de venir cette fois, quoi qu'il arrive.",
+        "en": "The only available dragon had a broken fastening. Camille offered a crocodile, then a frog, but the customer shook his head. 'I promised a dragon. If I change now, she'll think I was afraid.' His name was Laurent and he managed a furniture company. His daughter had organised a school presentation and asked him to play the main character in her story. After missing several meetings, he had promised to come this time whatever happened."
+      },
+      {
+        "fr": "Camille appela la propriétaire, qui achetait du tissu à l'autre bout de la ville. Celle-ci lui expliqua comment remplacer provisoirement la fermeture par des rubans. Laurent posa sa valise et proposa son aide. Il savait faire des nœuds solides, car il pratiquait la voile. Pendant qu'ils travaillaient, son téléphone sonna trois fois. Au quatrième appel, il répondit seulement qu'il serait disponible après le déjeuner. Camille remarqua qu'il semblait respirer plus facilement dès qu'il avait prononcé ces quelques mots.",
+        "en": "Camille called the owner, who was buying fabric across town. She explained how to replace the fastening temporarily with ribbons. Laurent put down his case and offered to help. He could tie strong knots because he sailed. While they worked his phone rang three times. On the fourth call he simply answered that he would be available after lunch. Camille noticed he seemed to breathe more easily once he had said those few words."
+      },
+      {
+        "fr": "Quand le costume fut prêt, Laurent l'essaya devant le grand miroir. La queue était si longue qu'il renversa un panier de chapeaux en se retournant. Camille lui conseilla de marcher de côté dans les portes et de s'asseoir lentement. Il s'entraîna entre les rayons, en tenant son texte devant le nez. Son personnage devait réclamer une montagne de coussins au roi. Peu à peu, sa voix grave devint un grondement ridicule qui fit rire deux clientes entrées dans la boutique.",
+        "en": "When the costume was ready Laurent tried it on before the large mirror. The tail was so long that he knocked over a basket of hats when turning. Camille advised walking sideways through doors and sitting down slowly. He practised between the shelves, holding his script before his nose. His character had to demand a mountain of cushions from the king. Gradually his deep voice became a ridiculous growl that made two customers laugh."
+      },
+      {
+        "fr": "Il revint le lendemain avec le costume soigneusement plié et une photographie de la classe. Au premier rang, sa fille souriait devant un dragon couvert de coussins colorés. Laurent expliqua qu'il avait oublié deux phrases, mais qu'elle les lui avait soufflées. Il voulait réserver le même costume pour la fête de son entreprise. Camille nota la date dans le carnet. Cette fois, elle connaissait parfaitement le numéro du cintre, et Laurent demanda si la boutique louait aussi de grands coussins.",
+        "en": "He returned the next day with the costume neatly folded and a class photograph. In the front row his daughter smiled before a dragon covered in colourful cushions. Laurent explained that he had forgotten two lines, but she had whispered them to him. He wanted to reserve the same costume for his company party. Camille recorded the date. This time she knew the hanger number perfectly, and Laurent asked whether the shop also rented large cushions."
+      }
+    ]
+  },
+  {
+    "id": "b1-la-recolte-en-retard",
+    "level": "B1",
+    "title": "La récolte en retard",
+    "englishTitle": "The Late Harvest",
+    "theme": "Nature",
+    "description": "During an olive harvest, a young visitor finds an abandoned table that interrupts her uncle’s strict schedule.",
+    "imageQuery": "young woman uncle olive grove harvest nets wooden table",
+    "paragraphs": [
+      {
+        "fr": "Chaque automne, Sonia aidait son oncle Mehdi à récolter les olives pendant un week-end. Cette année, elle arriva avec une application qui permettait de calculer le temps nécessaire pour chaque rangée. Son oncle, qui travaillait habituellement seul, accepta d'essayer. Ils posèrent de grands filets sous les arbres et commencèrent tôt le samedi. Sonia voulait terminer avant le dimanche midi pour reprendre son train sans courir. Tout semblait bien organisé, jusqu'à ce qu'ils atteignent un arbre près du mur.",
+        "en": "Every autumn Sonia helped her uncle Mehdi harvest olives for a weekend. This year she arrived with an app calculating the time needed for each row. Her uncle, who usually worked alone, agreed to try it. They spread large nets beneath the trees and started early on Saturday. Sonia wanted to finish before Sunday lunchtime so she could catch her train without rushing. Everything seemed organised until they reached a tree beside the wall."
+      },
+      {
+        "fr": "Derrière les branches basses se trouvait une petite table, cachée par les herbes sèches. Deux chaises rouillées étaient renversées à côté. Sonia demanda pourquoi ces meubles restaient là au lieu d'être rangés dans la maison. Mehdi répondit qu'autrefois son frère venait déjeuner sous cet arbre pendant la récolte. Depuis qu'il avait ouvert un garage loin de là, leurs horaires ne correspondaient plus. Il souleva une caisse pleine d'olives et proposa de continuer avant que la chaleur ne devienne trop forte.",
+        "en": "Behind the low branches stood a little table hidden by dry grass. Two rusty chairs lay overturned beside it. Sonia asked why the furniture stayed there instead of being put away in the house. Mehdi replied that his brother used to lunch beneath that tree during harvest. Since opening a distant garage their schedules no longer matched. He lifted a full crate of olives and suggested continuing before the heat became too strong."
+      },
+      {
+        "fr": "Pendant la pause, Sonia téléphona à son père, le frère de Mehdi. Il était justement venu livrer une voiture dans une ville voisine et pourrait passer en fin d'après-midi. Elle ne promit rien à son oncle, car son père avait parfois des retards imprévus. Elle nettoya cependant la table et vérifia les chaises avec Mehdi. L'une était trop fragile pour servir ; ils apportèrent donc un banc de la cour. L'application annonçait maintenant une fin de travail beaucoup plus tardive.",
+        "en": "During the break Sonia phoned her father, Mehdi's brother. He happened to have delivered a car in a nearby town and could come late that afternoon. She promised her uncle nothing, as her father sometimes suffered unexpected delays. Nevertheless she cleaned the table and checked the chairs with Mehdi. One was too fragile to use, so they brought a bench from the yard. The app now predicted a much later finish."
+      },
+      {
+        "fr": "À cinq heures, un moteur se fit entendre sur le chemin. Son père descendit d'une camionnette avec du pain, des tomates et une grande boîte de fromage. Mehdi resta un instant immobile, son râteau à la main. Puis il demanda si le garage avait enfin décidé de lui rendre son frère. Ils mangèrent sous l'arbre et parlèrent des années où Sonia cachait ses jouets dans les filets. Après le repas, son père retira sa veste et demanda quelles rangées restaient à faire.",
+        "en": "At five an engine sounded along the path. Her father stepped out of a van with bread, tomatoes and a large box of cheese. Mehdi stood still for a moment, rake in hand. Then he asked whether the garage had finally decided to return his brother. They ate beneath the tree and talked about the years when Sonia hid toys in the nets. After the meal her father took off his jacket and asked which rows remained."
+      },
+      {
+        "fr": "À trois, ils terminèrent juste avant la nuit. Le dimanche, ils apportèrent ensemble les olives au moulin et attendirent leur tour en buvant un café. Sonia désactiva les notifications de son application, qui lui annonçait encore un retard. Son père proposa de bloquer dès maintenant un week-end pour l'automne suivant. Mehdi sortit son vieux calendrier de sa poche. Avant de partir prendre son train, Sonia photographia la table vide. Elle avait ajouté une troisième place, que personne ne semblait pressé de ranger.",
+        "en": "Working together, the three finished just before nightfall. On Sunday they took the olives to the mill and waited their turn over coffee. Sonia turned off her app's notifications, which still announced a delay. Her father suggested reserving a weekend for the following autumn immediately. Mehdi took his old calendar from his pocket. Before leaving for her train Sonia photographed the empty table. She had added a third place that nobody seemed eager to put away."
+      }
+    ]
+  },
+  {
+    "id": "b1-le-vote-des-mascottes",
+    "level": "B1",
+    "title": "Le vote des mascottes",
+    "englishTitle": "The Mascot Vote",
+    "theme": "Humour",
+    "description": "An office votes for a new mascot, and a quiet employee enters a candidate nobody expected.",
+    "imageQuery": "office workers cardboard yellow rubber duck mascot election",
+    "paragraphs": [
+      {
+        "fr": "Dans le bureau où travaillait Aïcha, une énorme affiche de montagne cachait une fissure du mur. Le directeur voulait la remplacer par une mascotte qui représenterait l'équipe sur son site internet. Il proposa un lion très sérieux, avec des lunettes et une cravate. Personne ne protesta pendant la réunion, mais à la pause, les collègues inventèrent des animaux de plus en plus ridicules. Aïcha, qui parlait peu devant le groupe, suggéra alors d'organiser un véritable vote vendredi après-midi.",
+        "en": "In Aïcha's office an enormous mountain poster hid a crack in the wall. The manager wanted to replace it with a mascot representing the team on its website. He proposed a very serious lion in glasses and a tie. Nobody objected during the meeting, but at break the colleagues invented increasingly ridiculous animals. Aïcha, who rarely spoke before the group, then suggested holding a real vote on Friday afternoon."
+      },
+      {
+        "fr": "Le directeur accepta, à condition que chaque proposition soit accompagnée d'un dessin et d'une courte explication. Dès le lendemain, un pingouin apparut près de l'imprimante et un renard fut accroché à la machine à café. Les collègues discutaient de leurs candidats avec une passion qu'on voyait rarement pendant les réunions de budget. Aïcha préparait sa proposition chez elle. Elle découpa un vieux carton, chercha ses crayons jaunes et demanda à sa colocataire si un objet pouvait avoir une expression courageuse.",
+        "en": "The manager agreed provided each proposal included a drawing and a short explanation. The next day a penguin appeared beside the printer and a fox was pinned to the coffee machine. Colleagues discussed candidates with a passion rarely seen in budget meetings. Aïcha prepared hers at home. She cut old cardboard, found her yellow pencils and asked her flatmate whether an object could have a courageous expression."
+      },
+      {
+        "fr": "Le vendredi matin, elle installa son candidat : un petit canard de bain portant un casque de chantier. Sous le dessin, elle écrivit : « Il reste calme quand tout flotte autour de lui. » Le directeur fronça les sourcils, puis reconnut le canard que chacun posait autrefois sur son écran pour signaler un problème informatique. Cette habitude avait disparu après le déménagement du bureau. Plusieurs collègues racontèrent immédiatement leurs anciennes aventures avec cet objet, dont un voyage accidentel dans une valise professionnelle.",
+        "en": "On Friday morning she displayed her candidate: a little bath duck wearing a construction helmet. Beneath the drawing she wrote, 'It stays calm when everything floats around it.' The manager frowned, then recognised the duck everyone once put on their screen to signal a computer problem. This habit had disappeared after the office moved. Several colleagues immediately shared past adventures involving the object, including an accidental trip in a business suitcase."
+      },
+      {
+        "fr": "À quinze heures, chacun glissa un bulletin dans une boîte à chaussures. Le lion et le renard obtinrent le même nombre de voix. Le canard les dépassa d'une voix seulement. Le directeur demanda un second tour, mais consulta les règles affichées près de la boîte : un seul vote avait été prévu. Aïcha lui tendit le dessin en retenant son sourire. Il examina le casque et demanda si l'on pourrait lui ajouter des lunettes, car le canard devrait probablement lire beaucoup de documents.",
+        "en": "At three everyone put a ballot in a shoebox. The lion and fox received the same number of votes. The duck beat them by just one vote. The manager requested a second round but checked the rules beside the box: only one vote had been planned. Aïcha handed him the drawing, holding back a smile. He examined the helmet and asked whether glasses could be added, since the duck would probably read many documents."
+      },
+      {
+        "fr": "Une graphiste transforma le carton en une image propre pour le site. Aïcha fut invitée à présenter la mascotte au prochain rendez-vous avec les clients. Elle craignait de ne pas trouver ses mots, puis imagina le petit canard devant une salle pleine de lions sérieux. Sa présentation dura deux minutes et fit rire les visiteurs. Dans le bureau, la fissure restait visible au-dessus du nouveau dessin. Le directeur proposa de la réparer enfin, avant que leur mascotte ne réclame un deuxième casque.",
+        "en": "A designer turned the cardboard into a polished website image. Aïcha was invited to present the mascot at the next client meeting. She feared she would lose her words, then imagined the little duck facing a roomful of serious lions. Her presentation lasted two minutes and made the visitors laugh. In the office the crack remained visible above the new drawing. The manager proposed finally repairing it before their mascot demanded a second helmet."
+      }
+    ]
+  },
+  {
+    "id": "b1-le-ballon-dans-le-pommier",
+    "level": "B1",
+    "title": "Le ballon dans le pommier",
+    "englishTitle": "The Balloon in the Apple Tree",
+    "theme": "Mystery",
+    "description": "A girl finds a message in an orchard and follows its unusual journey back to a nearby school.",
+    "imageQuery": "teenage girl apple orchard deflated red balloon paper message",
+    "paragraphs": [
+      {
+        "fr": "En rentrant du collège, Anaïs traversait souvent le verger de sa tante. Un mercredi, elle remarqua une tache rouge dans le plus vieux pommier. Ce n'était pas une pomme : un ballon presque vide était accroché à une branche basse. Elle le détacha sans difficulté et trouva une petite enveloppe attachée à la ficelle. À l'intérieur, un papier portait trois mots : « Le voyage continue. » Au dos figurait le dessin maladroit d'un bâtiment avec une porte bleue et sept fenêtres jaunes.",
+        "en": "On her way home from school Anaïs often crossed her aunt's orchard. One Wednesday she noticed a red patch in the oldest apple tree. It was not an apple: an almost empty balloon was caught on a low branch. She easily untangled it and found a small envelope tied to the string. Inside a paper bore three words: 'The journey continues.' On the back was a clumsy drawing of a building with a blue door and seven yellow windows."
+      },
+      {
+        "fr": "Anaïs rapporta le ballon à la maison pour éviter qu'il reste dans la nature. Sa tante examina le dessin et pensa reconnaître l'école du village voisin. Pourtant, cette école avait une porte verte, et seulement cinq fenêtres sur la rue. Elles cherchèrent une photographie sur le site de la mairie. Le bâtiment ressemblait au dessin, mais pas assez pour être certaines. Anaïs décida de demander au gardien le lendemain, puisqu'elle passait près de cette école pour aller à son cours de guitare.",
+        "en": "Anaïs took the balloon home so it would not remain outdoors. Her aunt examined the drawing and thought she recognised the neighbouring village's school. Yet that school had a green door and only five street-facing windows. They looked for a photograph on the town hall website. The building resembled the drawing, but not enough to be certain. Anaïs decided to ask the caretaker the next day, since she passed that school on her way to guitar lessons."
+      },
+      {
+        "fr": "Le gardien reconnut immédiatement le papier. Une classe préparait une exposition sur les voyages, mais aucun lâcher de ballons n'avait été organisé. Il accompagna Anaïs jusqu'à la salle de Madame Perez. En voyant l'enveloppe, un garçon leva la main. Il avait dessiné son ancienne école, située au bord de la mer. Le ballon décorait sa maquette et s'était échappé par une fenêtre pendant qu'il transportait son travail. Le message appartenait à une histoire qu'il écrivait sur son changement de maison.",
+        "en": "The caretaker immediately recognised the paper. A class was preparing an exhibition about journeys, but no balloon release had been organised. He accompanied Anaïs to Madame Perez's room. Seeing the envelope, a boy raised his hand. He had drawn his former school beside the sea. The balloon decorated his model and had escaped through a window as he carried his work. The message belonged to a story he was writing about moving house."
+      },
+      {
+        "fr": "Le garçon, qui s'appelait Tiago, semblait déçu que son ballon n'ait parcouru que quelques kilomètres. Il avait imaginé qu'une personne le retrouverait dans un pays lointain. Anaïs lui montra une photographie du pommier et expliqua que sa tante envoyait ses pommes dans plusieurs régions. « Ton voyage pourrait continuer dans une caisse, sur une carte plutôt que dans le ciel », proposa-t-elle. Madame Perez trouva l'idée intéressante, à condition de demander d'abord l'accord de la personne qui recevrait la carte.",
+        "en": "The boy, Tiago, seemed disappointed that his balloon had travelled only a few kilometres. He had imagined someone finding it in a distant country. Anaïs showed him an apple-tree photograph and explained that her aunt sent apples to several regions. 'Your journey could continue in a crate, on a card rather than in the sky,' she suggested. Madame Perez liked the idea, provided they first asked the recipient's permission."
+      },
+      {
+        "fr": "La tante d'Anaïs contacta une cliente qui tenait une épicerie à Lille. Elle accepta de recevoir le dessin et de montrer son magasin à Tiago par photographies. Deux semaines plus tard, sa réponse arriva avec un plan du quartier et une recette aux pommes. Tiago ajouta ces documents à son exposition. Le ballon rouge, dégonflé et propre, resta à côté de la maquette. Anaïs fut invitée à l'ouverture. Elle reconnut enfin les sept fenêtres jaunes, dont deux se trouvaient sur le côté du bâtiment.",
+        "en": "Anaïs's aunt contacted a customer who ran a grocery shop in Lille. She agreed to receive the drawing and show Tiago her shop through photographs. Two weeks later her reply arrived with a neighbourhood map and an apple recipe. Tiago added these to his exhibition. The clean, deflated red balloon stayed beside the model. Anaïs was invited to the opening. She finally recognised the seven yellow windows, two of which were on the side of the building."
+      }
+    ]
+  },
+  {
+    "id": "b1-la-partie-sur-le-ferry",
+    "level": "B1",
+    "title": "La partie sur le ferry",
+    "englishTitle": "The Game on the Ferry",
+    "theme": "Friendship",
+    "description": "A young chess player shares a ferry table with a stranger who refuses to let him rush their game.",
+    "imageQuery": "young male chess player elderly woman ferry deck chessboard sea",
+    "paragraphs": [
+      {
+        "fr": "Thomas prenait le ferry pour rejoindre un tournoi d'échecs sur une île. Dans son sac, il transportait un échiquier pliant, une chemise propre et trois livres qu'il n'aurait pas le temps de lire. La traversée durait deux heures. Il comptait les utiliser pour étudier une partie difficile, mais toutes les tables étaient occupées. Une dame aux cheveux blancs lui fit signe de s'asseoir en face d'elle. Elle dessinait les bateaux dans un carnet dont les pages bougeaient avec le vent.",
+        "en": "Thomas was taking the ferry to a chess tournament on an island. His bag held a folding chessboard, a clean shirt and three books he would have no time to read. The crossing lasted two hours. He planned to use them to study a difficult game, but all the tables were occupied. A white-haired woman waved him into the seat opposite. She was drawing boats in a notebook whose pages moved in the wind."
+      },
+      {
+        "fr": "Quand il ouvrit son échiquier, elle demanda si elle pouvait jouer. Thomas hésita, car il voulait travailler sérieusement. Elle ajouta qu'elle connaissait les règles et promettait de ne pas déplacer les tours en diagonale. Il sourit et lui donna les pièces blanches. Elle s'appelait Odette et allait rendre visite à sa sœur. Elle jouait autrefois avec son mari, mais ses voisins actuels préféraient les cartes. Thomas décida de terminer rapidement cette partie avant de reprendre son programme d'entraînement personnel.",
+        "en": "When he opened his board she asked to play. Thomas hesitated because he wanted to work seriously. She added that she knew the rules and promised not to move rooks diagonally. He smiled and gave her the white pieces. Her name was Odette and she was visiting her sister. She used to play with her husband, but her current neighbours preferred cards. Thomas decided to finish quickly before returning to his personal training plan."
+      },
+      {
+        "fr": "Les premiers coups furent faciles. Puis Odette laissa une pièce sans protection, et Thomas la prit immédiatement. Elle ne sembla pas inquiète. Elle regarda la mer, demanda un café et déplaça tranquillement un petit pion. Thomas comprit trop tard qu'il avait ouvert un passage vers son roi. Il passa plusieurs minutes à chercher une solution. Autour d'eux, les voyageurs parlaient de la météo et des vacances, mais il n'entendait plus que le bruit régulier du moteur sous le pont.",
+        "en": "The first moves were easy. Then Odette left a piece unprotected and Thomas immediately captured it. She did not seem worried. She looked at the sea, ordered coffee and calmly moved a little pawn. Thomas realised too late that he had opened a path to his king. He spent several minutes searching for a solution. Around them passengers discussed weather and holidays, but he heard only the steady engine beneath the deck."
+      },
+      {
+        "fr": "Il finit par sauver son roi, au prix de sa meilleure pièce. « Vous aviez préparé tout cela ? » demanda-t-il. Odette répondit qu'elle avait surtout attendu qu'il se dépêche. Thomas rit et changea de position sur sa chaise. Il posa son téléphone dans son sac et prit enfin le temps de regarder l'ensemble du plateau. Quand le ferry passa près d'une petite île rocheuse, ils interrompirent même leur partie pour observer des phoques couchés au soleil, tout près de l'eau.",
+        "en": "He finally saved his king at the cost of his best piece. 'Had you planned all that?' he asked. Odette replied that she had mainly waited for him to hurry. Thomas laughed and shifted in his chair. He put his phone in his bag and finally took time to look at the whole board. When the ferry passed a rocky islet, they even paused their game to watch seals lying in the sun beside the water."
+      },
+      {
+        "fr": "À l'arrivée, personne n'avait gagné. Thomas photographia la position des pièces pour pouvoir terminer la partie un jour. Odette lui donna son adresse et proposa de jouer par courrier : un coup dans chaque lettre. Pendant le tournoi, Thomas termina au milieu du classement, mais évita une erreur semblable à celle du ferry. Le lundi, il acheta sa première carte postale pour Odette. Il y dessina un cavalier, écrivit son prochain coup et ajouta une question sur les bateaux qu'elle avait dessinés.",
+        "en": "At arrival neither had won. Thomas photographed the pieces' position so they could finish someday. Odette gave him her address and proposed playing by post: one move in each letter. In the tournament Thomas finished in the middle of the rankings, but avoided an error like the ferry one. On Monday he bought his first postcard for Odette. He drew a knight, wrote his next move and added a question about the boats she had drawn."
+      }
+    ]
   }
 ]

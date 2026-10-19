@@ -1,0 +1,152 @@
+[
+  {
+    "storyId": "a2-bonjour-de-toute-la-famille",
+    "paragraph": 5,
+    "field": "fr",
+    "before": "la première vidéo avec la lampe",
+    "after": "la deuxième vidéo, celle avec la lampe",
+    "severity": "material",
+    "reason": "The first take shows half the grandmother’s face (paragraph 2); the ceiling/lamp is the second take (paragraph 3).",
+    "status": "applied"
+  },
+  {
+    "storyId": "a2-bonjour-de-toute-la-famille",
+    "paragraph": 5,
+    "field": "en",
+    "before": "the first video with the lamp",
+    "after": "the second video, the one with the lamp",
+    "severity": "material",
+    "reason": "Match the corrected take number in French.",
+    "status": "applied"
+  },
+  {
+    "storyId": "b1-la-recolte-en-retard",
+    "paragraph": 1,
+    "field": "fr",
+    "before": "le dernier arbre près du mur",
+    "after": "un arbre près du mur",
+    "severity": "material",
+    "reason": "The last tree implies the harvest is nearly complete, but paragraph 4 still has whole rows to harvest. An unspecified tree preserves the reunion and timetable.",
+    "status": "applied"
+  },
+  {
+    "storyId": "b1-la-recolte-en-retard",
+    "paragraph": 1,
+    "field": "en",
+    "before": "the last tree beside the wall",
+    "after": "a tree beside the wall",
+    "severity": "material",
+    "reason": "Match the corrected harvest sequence in French.",
+    "status": "applied"
+  },
+  {
+    "storyId": "b2-montre-en-avance",
+    "paragraph": 1,
+    "field": "fr",
+    "before": "sa montre avançait de sept minutes",
+    "after": "sa montre retardait de sept minutes",
+    "severity": "material",
+    "reason": "A watch perceived as seven minutes fast would make the client early. He is seven minutes late relative to the theatre clock, so he would suspect his own watch is slow.",
+    "status": "applied"
+  },
+  {
+    "storyId": "b2-montre-en-avance",
+    "paragraph": 1,
+    "field": "en",
+    "before": "his watch ran seven minutes fast",
+    "after": "his watch ran seven minutes slow",
+    "severity": "material",
+    "reason": "Match the corrected direction of the apparent time error.",
+    "status": "applied"
+  },
+  {
+    "storyId": "b2-gambit-de-linvite",
+    "paragraph": 4,
+    "field": "fr",
+    "before": "Il avança un pion de côté",
+    "after": "Il avança un pion sur une aile",
+    "severity": "material",
+    "reason": "A pawn cannot move sideways. A pawn advance on a flank is legal and matches the intended English meaning.",
+    "status": "applied"
+  },
+  {
+    "storyId": "b2-passage-du-chat",
+    "paragraph": 4,
+    "field": "en",
+    "before": "on the first paving slab at children's eye level",
+    "after": "on the first paving slab, where children could easily see it",
+    "severity": "material",
+    "reason": "À hauteur des enfants is loose here, but the English makes it literally eye-level; the paving slab is on the ground. Preserve visibility without inventing a raised slab.",
+    "status": "applied"
+  },
+  {
+    "storyId": "b2-robe-des-deux-rives",
+    "paragraph": 3,
+    "field": "fr",
+    "before": "elle n'avait nulle part où ranger le sien",
+    "after": "ses poches étaient trop petites pour y ranger le sien",
+    "severity": "material",
+    "reason": "Paragraph 2 gives the narrator’s design discreet pockets. The notebook should fail to fit those pockets rather than the dress suddenly having nowhere to store anything.",
+    "status": "applied"
+  },
+  {
+    "storyId": "b2-robe-des-deux-rives",
+    "paragraph": 3,
+    "field": "en",
+    "before": "she had nowhere to put her own",
+    "after": "her pockets were too small to hold her own",
+    "severity": "material",
+    "reason": "Match the corrected pocket continuity in French.",
+    "status": "applied"
+  },
+  {
+    "storyId": "a2-le-cerf-volant-jaune",
+    "paragraph": 5,
+    "field": "fr",
+    "before": "Ils prennent chacun leur tour jusqu'à l'heure du goûter.",
+    "after": "Ils font voler le cerf-volant chacun à leur tour jusqu'à l'heure du goûter.",
+    "severity": "minor",
+    "reason": "More idiomatic explicit French for taking turns; keeps the A2 syntax transparent.",
+    "status": "applied"
+  },
+  {
+    "storyId": "a2-le-tresor-de-la-place-bleue",
+    "paragraph": 2,
+    "field": "en",
+    "before": "They note the last number",
+    "after": "They note the last digit",
+    "severity": "minor",
+    "reason": "Chiffre is digit, while the complete date contains several digits. This makes the clue procedure precise.",
+    "status": "applied"
+  },
+  {
+    "storyId": "b2-lot-quarante-deux",
+    "paragraph": 4,
+    "field": "fr",
+    "before": "Lorsque le montant l’atteignit, elle baissa sa pancarte.",
+    "after": "Lorsque sa dernière enchère atteignit cette limite, elle baissa sa pancarte.",
+    "severity": "minor",
+    "reason": "Clarify that Farida herself made the final bid; otherwise lowering her paddle can read as withdrawing before winning.",
+    "status": "applied"
+  },
+  {
+    "storyId": "b2-lot-quarante-deux",
+    "paragraph": 4,
+    "field": "en",
+    "before": "When the amount reached it, she lowered her paddle.",
+    "after": "When her final bid reached that limit, she lowered her paddle.",
+    "severity": "minor",
+    "reason": "Match the clarification that the winning bid belongs to Farida.",
+    "status": "applied"
+  },
+  {
+    "storyId": "b2-passage-du-chat",
+    "paragraph": 4,
+    "field": "fr",
+    "before": "sur la première dalle, à hauteur des enfants.",
+    "after": "sur la première dalle, bien visible pour les enfants.",
+    "severity": "material",
+    "reason": "Remove the source-language height ambiguity too, matching the corrected English visibility phrasing.",
+    "status": "applied"
+  }
+]

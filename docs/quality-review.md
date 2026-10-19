@@ -1,4 +1,4 @@
-# Delivery verification
+# Initial delivery verification (35-story release)
 
 ## Content
 
