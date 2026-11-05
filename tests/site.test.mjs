@@ -54,7 +54,7 @@ test('Every published story has five native translation controls and the correct
 });
 
 test('Published local links and media resolve, including project-subpath deployment', async () => {
-  for (const file of ['index.html', 'credits.html', ...stories.map(s => `stories/${s.id}.html`)]) {
+  for (const file of ['index.html', 'credits.html', 'words.html', ...stories.map(s => `stories/${s.id}.html`)]) {
     const html = await read(`dist/${file}`);
     for (const match of html.matchAll(/(?:href|src)="([^"]+)"/g)) {
       const url = match[1];
@@ -74,4 +74,21 @@ test('The library exposes all 65 covers and accurate level counts', async () => 
   assert.equal((html.match(/class="story-card"/g) || []).length, 65);
   for (const [level, count] of Object.entries(counts)) assert.match(html, new RegExp(`data-level-filter="${level}"[^>]+>${level} <span>${count}</span>`));
   for (const id of ['story-search', 'theme-filter', 'reading-guide']) assert.match(html, new RegExp(`id="${id}"`));
+});
+
+test('Story pages offer the word popover and every page links to the Words page', async () => {
+  for (const file of ['index.html', 'credits.html', 'words.html', `stories/${stories[0].id}.html`]) assert.match(await read(`dist/${file}`), /class="nav-words"/, file);
+  for (const story of stories) {
+    const html = await read(`dist/stories/${story.id}.html`);
+    assert.equal((html.match(/class="word-popover"/g) || []).length, 1, story.id);
+    for (const cls of ['wp-save', 'wp-translate', 'wp-result', 'word-hint']) assert.match(html, new RegExp(`class="[^"]*${cls}`), `${story.id}: ${cls}`);
+  }
+});
+
+test('The Words page has a list, meaning editor, review card and Anki export', async () => {
+  const html = await read('dist/words.html');
+  assert.match(html, /data-page="words"/);
+  for (const id of ['word-search', 'word-filter', 'start-review', 'export-words', 'review-view', 'show-answer', 'word-entry-template']) assert.match(html, new RegExp(`id="${id}"`), id);
+  assert.match(html, /<textarea/);
+  for (const grade of ['again', 'hard', 'good', 'easy']) assert.match(html, new RegExp(`data-grade="${grade}"`));
 });

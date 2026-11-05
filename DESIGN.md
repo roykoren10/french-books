@@ -169,6 +169,12 @@ Search and theme selection use flat paper fields, minimum 52px on desktop. Searc
 ### Navigation
 The wordmark and two plain text links share the header with a circular theme control. Links underline on hover. Below 560px the library link hides while Saved and theme remain available. The saved count appears only when needed.
 
+### Word popover
+Holding (or double-clicking) a French word marks it with a brass highlight and opens a small paper popover: the word, a filled ink "Save word" pill and a ground-colored "Translate" pill. Translations appear below a hairline with dictionary senses and an outbound Google Translate link. As a floating layer it is the one place a soft shadow is allowed.
+
+### Words page
+Saved words are flat paper entries: the word, a due badge, the source sentence with the word in brass, a ground-colored meaning field, and Google suggestions as tinted chips. Review uses a single centered paper flashcard with the book ribbon, a reveal action, and four grade buttons where Good carries the ink fill.
+
 ### Paragraph translation
 Native details/summary reveals each English counterpart in a ground-colored inset. The summary changes between show and hide wording, and its SVG chevron rotates. The reading toolbar can reveal or hide all five translations. Completed stories gain a tinted completion action and catalogue marker.
 
