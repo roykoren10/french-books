@@ -20,7 +20,7 @@ An inviting collection of original short French stories with optional English tr
 
 ## Capabilities and Constraints
 
-- Fifteen A2, twenty-five B1, and twenty-five B2 stories (65 total).
+- Twenty A2, thirty B1, and thirty B2 stories (80 total), including five conversation stories (dialogue scripts) per level.
 - Different themes, characters, and settings; a mixture of humour, intrigue, culture, and gentle drama. Avoid very sad stories.
 - A CEFR level picker, thumbnails for every story, paragraph translation toggles, and switchable dark/light themes.
 - Short reading sessions: five paragraphs per story, approximately one or two pages.
@@ -33,7 +33,7 @@ An inviting collection of original short French stories with optional English tr
 - Translations are a choice at paragraph level.
 - Difficulty labels describe editorial targets, not a formal language assessment.
 - Browser-local saved stories and completion state require no account.
-- Hold a word to save or translate it; saved words get reader-written meanings, spaced-repetition review, and Anki export, all browser-local.
+- Hold a word to see its translation immediately and save it; saved words get reader-written meanings, spaced-repetition review, and Anki export, all browser-local.
 
 ## Evidence on Hand
 

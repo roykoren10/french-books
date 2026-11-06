@@ -200,14 +200,13 @@
     const storyId = document.body.dataset.story;
     const storyTitle = $('.story-heading h1')?.textContent || '';
     const saveButton = $('.wp-save', popover);
-    const translateButton = $('.wp-translate', popover);
     const result = $('.wp-result', popover);
     const wordChar = /[\p{L}\p{M}'’-]/u;
     let pick = null;
     let press = null;
     const hint = $('.word-hint');
     hint.hidden = false;
-    if (matchMedia('(hover: hover) and (pointer: fine)').matches) hint.textContent = 'Double-click or hold any French word to save or translate it.';
+    if (matchMedia('(hover: hover) and (pointer: fine)').matches) hint.textContent = 'Double-click or hold any French word to see its translation and save it.';
     const highlight = range => {
       try {
         if (!window.Highlight || !CSS.highlights) return;
@@ -220,7 +219,7 @@
       return null;
     };
     function wordRange(node, offset) {
-      if (!node || node.nodeType !== Node.TEXT_NODE || !node.parentElement?.closest('.french-paragraph')) return null;
+      if (!node || node.nodeType !== Node.TEXT_NODE || !node.parentElement?.closest('.french-paragraph') || node.parentElement.closest('.speaker')) return null;
       const text = node.data;
       let start = offset, end = offset;
       while (start > 0 && wordChar.test(text[start - 1])) start--;
@@ -243,14 +242,15 @@
       return hit ? range : null;
     };
     function sentenceFor(range) {
-      const paragraph = range.startContainer.parentElement.closest('.french-paragraph');
+      const paragraph = range.startContainer.parentElement.closest('.line') || range.startContainer.parentElement.closest('.french-paragraph');
       const before = document.createRange();
       before.selectNodeContents(paragraph);
       before.setEnd(range.startContainer, range.startOffset);
       const at = before.toString().length;
       const text = paragraph.textContent;
+      const speaker = paragraph.querySelector?.('.speaker')?.textContent.length || 0;
       for (const match of text.matchAll(/[^.!?…\n]+(?:[.!?…]+[»”"’)]*|\n|$)/gu)) {
-        if (at >= match.index && at < match.index + match[0].length) return match[0].replace(/^[\s»”"’)]+/u, '').replace(/\s+/gu, ' ').trim().slice(0, 400);
+        if (at >= match.index && at < match.index + match[0].length) return match[0].slice(match.index < speaker ? speaker - match.index : 0).replace(/^[\s»”"’)]+/u, '').replace(/\s+/gu, ' ').trim().slice(0, 400);
       }
       return '';
     }
@@ -275,11 +275,9 @@
       pick = { range, word: range.toString().toLocaleLowerCase('fr'), sentence: sentenceFor(range), translation: '' };
       highlight(range);
       $('.wp-word', popover).textContent = pick.word;
-      result.hidden = true;
-      result.replaceChildren();
       updateSaveButton();
       popover.hidden = false;
-      place();
+      showTranslation(pick);
     }
     function close() {
       if (popover.hidden) return;
@@ -327,10 +325,7 @@
       refreshWordCount();
       updateSaveButton();
     });
-    translateButton.addEventListener('click', async () => {
-      if (!pick) return;
-      const current = pick;
-      result.hidden = false;
+    async function showTranslation(current) {
       result.replaceChildren(el('p', { className: 'wp-status', textContent: 'Translating…' }));
       place();
       const link = el('a', { className: 'wp-google', href: googleLink(current.sentence && current.word.length < 3 ? current.sentence : current.word), target: '_blank', rel: 'noopener' }, ['Open in Google Translate']);
@@ -351,7 +346,7 @@
         result.replaceChildren(el('p', { className: 'wp-status', textContent: 'Google Translate could not be reached just now.' }), link);
       }
       place();
-    });
+    }
   }
 
   /* Words page: meanings, spaced-repetition review, Anki export. */

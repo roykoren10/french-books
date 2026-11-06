@@ -1,7 +1,7 @@
 {
   "levels": {
     "A2": {
-      "count": 15,
+      "count": 20,
       "atlases": [
         {
           "file": "a2-covers.png",
@@ -18,7 +18,7 @@
       ]
     },
     "B1": {
-      "count": 25,
+      "count": 30,
       "atlases": [
         {
           "file": "b1-covers.png",
@@ -69,7 +69,7 @@
       ]
     },
     "B2": {
-      "count": 25,
+      "count": 30,
       "atlases": [
         {
           "file": "b2-covers.png",

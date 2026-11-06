@@ -1,0 +1,527 @@
+[
+  {
+    "id": "a2-le-melon-parfait",
+    "level": "A2",
+    "title": "Le melon parfait",
+    "englishTitle": "The Perfect Melon",
+    "theme": "Conversation",
+    "description": "At the Saturday market, a customer and a fruit seller have very different ideas about choosing a melon.",
+    "imageQuery": "Two speech bubbles at a market fruit stall",
+    "bubbles": [
+      "Il est bon, ce melon ?",
+      "Sentez-le d'abord !"
+    ],
+    "paragraphs": [
+      {
+        "fr": "(Samedi matin, au marché. Lucie s'arrête devant les fruits de Paulo.)\nPaulo : Bonjour, madame ! Aujourd'hui, j'ai des fraises, des pêches et des melons. Qu'est-ce que vous voulez ?\nLucie : Bonjour ! Je voudrais un melon, s'il vous plaît. Ce soir, j'invite mes amis à dîner.\nPaulo : Très bien. Pour quand ? Pour ce soir ou pour demain ?\nLucie : Pour ce soir, à huit heures.",
+        "en": "(Saturday morning, at the market. Lucie stops in front of Paulo's fruit.)\nPaulo: Good morning, madam! Today I have strawberries, peaches and melons. What would you like?\nLucie: Good morning! I'd like a melon, please. Tonight I'm inviting my friends to dinner.\nPaulo: Very good. For when? For tonight or for tomorrow?\nLucie: For tonight, at eight o'clock."
+      },
+      {
+        "fr": "Paulo : Alors, il faut choisir avec attention. Prenez ce melon dans vos mains. Il est lourd ?\nLucie : Oui, assez lourd.\nPaulo : C'est bien. Maintenant, sentez-le.\nLucie : Je dois sentir le melon ? Devant tout le monde ?\nPaulo : Bien sûr ! Tout le monde sent les melons ici. Regardez le monsieur à côté de vous.\nLucie : Ah oui… Il a le nez dans un melon. D'accord.",
+        "en": "Paulo: Then you have to choose carefully. Take this melon in your hands. Is it heavy?\nLucie: Yes, quite heavy.\nPaulo: That's good. Now, smell it.\nLucie: I have to smell the melon? In front of everyone?\nPaulo: Of course! Everyone smells melons here. Look at the gentleman next to you.\nLucie: Oh yes… He has his nose in a melon. All right."
+      },
+      {
+        "fr": "Lucie : Hmm. Il sent… le melon.\nPaulo : Un peu ou beaucoup ?\nLucie : Je ne sais pas. Un peu, je pense.\nPaulo : Alors, il n'est pas prêt pour ce soir. Il sera parfait mardi. Essayez celui-ci.\nLucie : Oh ! Celui-là sent très bon. On sent le sucre et le soleil.\nPaulo : Voilà ! Vous êtes une experte maintenant.",
+        "en": "Lucie: Hmm. It smells… of melon.\nPaulo: A little or a lot?\nLucie: I don't know. A little, I think.\nPaulo: Then it isn't ready for tonight. It will be perfect on Tuesday. Try this one.\nLucie: Oh! That one smells very good. You can smell sugar and sunshine.\nPaulo: There you go! You're an expert now."
+      },
+      {
+        "fr": "Lucie : Combien coûte-t-il ?\nPaulo : Trois euros. Et vous voulez aussi des fraises pour le dessert ?\nLucie : Non, merci. Le melon, c'est le dessert.\nPaulo : Le dessert ? Ah non, madame ! En France, on mange souvent le melon au début du repas, avec du jambon.\nLucie : Avec du jambon ? Vraiment ? Chez moi, on le mange après le plat.",
+        "en": "Lucie: How much does it cost?\nPaulo: Three euros. And would you like some strawberries for dessert too?\nLucie: No, thank you. The melon is the dessert.\nPaulo: The dessert? Oh no, madam! In France, we often eat melon at the start of the meal, with ham.\nLucie: With ham? Really? At home, we eat it after the main course."
+      },
+      {
+        "fr": "Paulo : Alors, faites les deux ! Un melon avec du jambon au début, et des fraises à la fin.\nLucie : Vous êtes un très bon vendeur, vous.\nPaulo : Je sais. Ça fait cinq euros cinquante, s'il vous plaît.\nLucie : Voilà. Merci, Paulo. Et mardi, je reviens pour l'autre melon.\nPaulo : Parfait ! Il vous attend. Bonne soirée avec vos amis !",
+        "en": "Paulo: Then do both! A melon with ham at the start, and strawberries at the end.\nLucie: You're a very good salesman.\nPaulo: I know. That's five euros fifty, please.\nLucie: Here you are. Thank you, Paulo. And on Tuesday, I'll come back for the other melon.\nPaulo: Perfect! It will be waiting for you. Have a lovely evening with your friends!"
+      }
+    ]
+  },
+  {
+    "id": "a2-la-trompette-du-troisieme",
+    "level": "A2",
+    "title": "La trompette du troisième",
+    "englishTitle": "The Trumpet on the Third Floor",
+    "theme": "Conversation",
+    "description": "Two neighbours meet on the stairs and solve the mystery of the music at night.",
+    "imageQuery": "Two speech bubbles on an apartment staircase",
+    "bubbles": [
+      "Vous entendez cette musique ?",
+      "C'est moi. Pardon !"
+    ],
+    "paragraphs": [
+      {
+        "fr": "(Dans l'escalier d'un immeuble. Madame Garnier rencontre un jeune homme avec un grand sac noir.)\nMme Garnier : Bonjour, jeune homme. Vous habitez ici ?\nHugo : Bonjour, madame. Oui, je suis arrivé lundi. J'habite au troisième étage.\nMme Garnier : Au troisième ? Moi, j'habite au deuxième, juste en dessous. Je m'appelle Madame Garnier.\nHugo : Enchanté. Moi, c'est Hugo.",
+        "en": "(On the stairs of an apartment building. Madame Garnier meets a young man with a big black bag.)\nMme Garnier: Hello, young man. Do you live here?\nHugo: Hello, madam. Yes, I arrived on Monday. I live on the third floor.\nMme Garnier: On the third? I live on the second, just below. My name is Madame Garnier.\nHugo: Pleased to meet you. I'm Hugo."
+      },
+      {
+        "fr": "Mme Garnier : Dites-moi, Hugo, vous entendez la musique la nuit ? Depuis lundi, à onze heures du soir, quelqu'un joue de la trompette.\nHugo : Ah… Oui, je l'entends.\nMme Garnier : Je pense que c'est le monsieur du quatrième. Il a un chat très bizarre.\nHugo : Non, madame. Ce n'est pas lui. Ce n'est pas le chat non plus.\nMme Garnier : Alors, qui ?",
+        "en": "Mme Garnier: Tell me, Hugo, do you hear the music at night? Since Monday, at eleven in the evening, someone has been playing the trumpet.\nHugo: Ah… Yes, I hear it.\nMme Garnier: I think it's the gentleman on the fourth floor. He has a very strange cat.\nHugo: No, madam. It isn't him. It isn't the cat either.\nMme Garnier: Then who?"
+      },
+      {
+        "fr": "Hugo : C'est moi. Il y a une trompette dans mon sac. Je suis vraiment désolé.\nMme Garnier : Vous ? Mais pourquoi la nuit ?\nHugo : Le jour, je travaille dans un restaurant. Je rentre à dix heures et demie. Et samedi prochain, je joue dans un petit concert. Je suis très stressé, alors je répète beaucoup.\nMme Garnier : Je comprends. Mais moi, je dors à dix heures.",
+        "en": "Hugo: It's me. There's a trumpet in my bag. I'm really sorry.\nMme Garnier: You? But why at night?\nHugo: During the day, I work in a restaurant. I get home at half past ten. And next Saturday, I'm playing in a little concert. I'm very stressed, so I practise a lot.\nMme Garnier: I understand. But I go to sleep at ten."
+      },
+      {
+        "fr": "Hugo : Le dimanche et le mercredi, je ne travaille pas. Je peux jouer l'après-midi ces jours-là. Ça va pour vous ?\nMme Garnier : L'après-midi, c'est parfait. Je bois mon thé et j'écoute. Vous jouez quelle musique ?\nHugo : Du jazz, surtout. Et une chanson d'Édith Piaf pour finir le concert.\nMme Garnier : Piaf ? Ma mère adorait Piaf ! Vous connaissez « La Vie en rose » ?\nHugo : Bien sûr. C'est celle-là.",
+        "en": "Hugo: On Sundays and Wednesdays, I don't work. I can play in the afternoon on those days. Is that all right for you?\nMme Garnier: The afternoon is perfect. I'll drink my tea and listen. What music do you play?\nHugo: Mostly jazz. And a song by Édith Piaf to finish the concert.\nMme Garnier: Piaf? My mother loved Piaf! Do you know “La Vie en rose”?\nHugo: Of course. That's the one."
+      },
+      {
+        "fr": "Mme Garnier : Alors, j'ai une idée. Dimanche, vous jouez chez moi. Je fais un gâteau, et vous répétez devant un vrai public.\nHugo : Un public d'une personne ?\nMme Garnier : Deux personnes. J'invite aussi le monsieur du quatrième. Il est gentil, vous savez. C'est seulement son chat qui est bizarre.\nHugo : D'accord. Dimanche, à trois heures ?\nMme Garnier : À trois heures. Et le soir, pas une minute après dix heures !",
+        "en": "Mme Garnier: Then I have an idea. On Sunday, you play at my place. I'll make a cake, and you practise in front of a real audience.\nHugo: An audience of one person?\nMme Garnier: Two people. I'll invite the gentleman on the fourth floor too. He's nice, you know. It's only his cat that's strange.\nHugo: All right. Sunday, at three o'clock?\nMme Garnier: At three o'clock. And in the evenings, not one minute after ten!"
+      }
+    ]
+  },
+  {
+    "id": "a2-ou-est-la-gare",
+    "level": "A2",
+    "title": "Où est la gare ?",
+    "englishTitle": "Where Is the Station?",
+    "theme": "Conversation",
+    "description": "A lost tourist asks a confident little boy for directions. His answer is very, very detailed.",
+    "imageQuery": "Two speech bubbles in a small town square",
+    "bubbles": [
+      "Où est la gare, s'il te plaît ?",
+      "C'est facile !"
+    ],
+    "paragraphs": [
+      {
+        "fr": "(Dans une petite ville. Une touriste avec une grande valise parle à un garçon de huit ans.)\nAnna : Excuse-moi, tu habites ici ?\nThéo : Oui, depuis toujours. Enfin, depuis huit ans.\nAnna : Super. Je cherche la gare. Mon train part dans vingt minutes. Tu sais où elle est ?\nThéo : Bien sûr ! Je connais toute la ville. C'est facile. Vous êtes prête ?",
+        "en": "(In a small town. A tourist with a big suitcase talks to an eight-year-old boy.)\nAnna: Excuse me, do you live here?\nThéo: Yes, forever. Well, for eight years.\nAnna: Great. I'm looking for the station. My train leaves in twenty minutes. Do you know where it is?\nThéo: Of course! I know the whole town. It's easy. Are you ready?"
+      },
+      {
+        "fr": "Théo : D'abord, vous allez tout droit jusqu'à la boulangerie. Elle a des croissants énormes. Le mardi, il y a aussi des pains au chocolat avec deux barres de chocolat.\nAnna : D'accord, tout droit jusqu'à la boulangerie.\nThéo : Après, vous tournez à gauche. Il y a un chien blanc devant la pharmacie. Il s'appelle Biscuit. Il est gentil, mais il n'aime pas les valises.\nAnna : Ah… Et après le chien ?",
+        "en": "Théo: First, you go straight on as far as the bakery. It has enormous croissants. On Tuesdays, there are also pains au chocolat with two bars of chocolate.\nAnna: OK, straight on to the bakery.\nThéo: After that, you turn left. There's a white dog in front of the chemist's. His name is Biscuit. He's nice, but he doesn't like suitcases.\nAnna: Oh… And after the dog?"
+      },
+      {
+        "fr": "Théo : Après Biscuit, vous traversez la place. Au milieu, il y a une fontaine. Mon copain Jules a perdu une chaussure dedans l'année dernière.\nAnna : Une chaussure ? Comment ?\nThéo : C'est une longue histoire. Ensuite, vous prenez la petite rue à droite, vous montez l'escalier, vous passez devant l'école, et vous redescendez de l'autre côté.\nAnna : Tu es sûr ? Ça fait beaucoup de chemin.\nThéo : Oui, oui. C'est le chemin que je prends tous les matins.",
+        "en": "Théo: After Biscuit, you cross the square. In the middle there's a fountain. My friend Jules lost a shoe in it last year.\nAnna: A shoe? How?\nThéo: It's a long story. Next, you take the little street on the right, you go up the stairs, you go past the school, and you come back down on the other side.\nAnna: Are you sure? That's a long way.\nThéo: Yes, yes. It's the way I go every morning."
+      },
+      {
+        "fr": "(Une femme sort d'un magasin. C'est la mère de Théo.)\nLa mère : Théo, avec qui tu parles ?\nThéo : J'aide la dame. Elle cherche la gare.\nLa mère : La gare ? Mais madame, elle est juste derrière vous ! Regardez, le grand bâtiment avec l'horloge.\nAnna : Oh non… Je suis devant la gare depuis cinq minutes !",
+        "en": "(A woman comes out of a shop. It's Théo's mother.)\nThe mother: Théo, who are you talking to?\nThéo: I'm helping the lady. She's looking for the station.\nThe mother: The station? But madam, it's right behind you! Look, the big building with the clock.\nAnna: Oh no… I've been standing in front of the station for five minutes!"
+      },
+      {
+        "fr": "Théo : Oui, mais mon chemin est plus joli. Il y a Biscuit, la fontaine et les croissants.\nLa mère : Théo ! La dame a un train.\nAnna : Ce n'est pas grave. Merci, Théo. La prochaine fois, j'arrive une heure avant mon train. Et je prends ton chemin.\nThéo : Promis ? Alors n'oubliez pas : le mardi, deux barres de chocolat !\nAnna : Je n'oublie pas. Au revoir !",
+        "en": "Théo: Yes, but my way is prettier. There's Biscuit, the fountain and the croissants.\nThe mother: Théo! The lady has a train to catch.\nAnna: It doesn't matter. Thank you, Théo. Next time, I'll arrive an hour before my train. And I'll take your way.\nThéo: Promise? Then don't forget: on Tuesdays, two bars of chocolate!\nAnna: I won't forget. Goodbye!"
+      }
+    ]
+  },
+  {
+    "id": "a2-allo-mamie",
+    "level": "A2",
+    "title": "Allô, Mamie ?",
+    "englishTitle": "Hello, Grandma?",
+    "theme": "Conversation",
+    "description": "A grandson tries to teach his grandmother to send a photo by phone. Her first photos are a surprise.",
+    "imageQuery": "Two speech bubbles on a phone call",
+    "bubbles": [
+      "Tu vois mon gâteau ?",
+      "Je vois ton oreille, Mamie !"
+    ],
+    "paragraphs": [
+      {
+        "fr": "(Dimanche après-midi. Le téléphone de Nathan sonne.)\nNathan : Allô, Mamie ?\nMamie : Allô, Nathan ? Tu m'entends ? Je parle avec mon nouveau téléphone !\nNathan : Je t'entends très bien. Bravo ! Il est comment, ce téléphone ?\nMamie : Il est très grand et très intelligent. Plus intelligent que moi, je pense. J'ai fait un gâteau aux pommes et je veux t'envoyer une photo.",
+        "en": "(Sunday afternoon. Nathan's phone rings.)\nNathan: Hello, Grandma?\nGrandma: Hello, Nathan? Can you hear me? I'm talking on my new phone!\nNathan: I can hear you very well. Well done! What's it like, this phone?\nGrandma: It's very big and very clever. Cleverer than me, I think. I've made an apple cake and I want to send you a photo."
+      },
+      {
+        "fr": "Nathan : D'accord. C'est simple. Tu vois le petit appareil photo sur l'écran ?\nMamie : Attends, je mets mes lunettes… Oui, je le vois.\nNathan : Tu appuies dessus, et après tu appuies sur le grand rond blanc.\nMamie : Le rond blanc… Voilà ! C'est fait. Je t'envoie la photo.\nNathan : Merci… Mamie, c'est ton oreille.\nMamie : Mon oreille ? Mais non, c'est le gâteau !",
+        "en": "Nathan: OK. It's simple. Can you see the little camera on the screen?\nGrandma: Wait, I'm putting my glasses on… Yes, I can see it.\nNathan: You press on it, and then you press the big white circle.\nGrandma: The white circle… There! Done. I'm sending you the photo.\nNathan: Thank you… Grandma, that's your ear.\nGrandma: My ear? No, it's the cake!"
+      },
+      {
+        "fr": "Nathan : Non, je t'assure. C'est une très belle oreille, mais ce n'est pas un gâteau. Tu tiens le téléphone contre ta tête quand tu prends la photo.\nMamie : Ah, je comprends. Je recommence. Je mets le téléphone devant moi… Et voilà. Deuxième photo !\nNathan : Mamie… Maintenant, je vois le plafond de ta cuisine.\nMamie : Il est joli, non ? Ton grand-père l'a peint en bleu.",
+        "en": "Nathan: No, I promise. It's a very nice ear, but it isn't a cake. You're holding the phone against your head when you take the photo.\nGrandma: Ah, I understand. I'll start again. I put the phone in front of me… And there. Second photo!\nNathan: Grandma… Now I can see your kitchen ceiling.\nGrandma: It's pretty, isn't it? Your grandfather painted it blue."
+      },
+      {
+        "fr": "Nathan : Il est très joli. Mais le gâteau est sur la table, pas au plafond. Tourne le téléphone vers la table.\nMamie : Vers la table… Oh ! Je vois le gâteau sur l'écran. Et je vois aussi Pompon.\nNathan : Pompon ? Le chat est sur la table ?\nMamie : Il est à côté du gâteau. Il le regarde avec beaucoup d'amour. J'appuie sur le rond blanc maintenant ?\nNathan : Oui, vite, avant le chat !",
+        "en": "Nathan: It's very pretty. But the cake is on the table, not on the ceiling. Turn the phone towards the table.\nGrandma: Towards the table… Oh! I can see the cake on the screen. And I can see Pompon too.\nNathan: Pompon? The cat is on the table?\nGrandma: He's next to the cake. He's looking at it with a lot of love. Do I press the white circle now?\nNathan: Yes, quickly, before the cat gets there!"
+      },
+      {
+        "fr": "Mamie : C'est fait. Tu l'as reçue ?\nNathan : Oui ! Elle est parfaite. Le gâteau est magnifique, et Pompon a l'air très gourmand.\nMamie : Tu vois ? Je suis une vraie photographe maintenant. Demain, je t'envoie une photo de mes tomates.\nNathan : Super. Et Mamie… garde-moi un morceau de gâteau. Je viens samedi.\nMamie : Je garde un morceau pour toi. Mais je ne promets rien pour Pompon !",
+        "en": "Grandma: Done. Did you get it?\nNathan: Yes! It's perfect. The cake looks wonderful, and Pompon looks very greedy.\nGrandma: You see? I'm a real photographer now. Tomorrow, I'll send you a photo of my tomatoes.\nNathan: Great. And Grandma… save me a piece of cake. I'm coming on Saturday.\nGrandma: I'll keep a piece for you. But I can't promise anything about Pompon!"
+      }
+    ]
+  },
+  {
+    "id": "a2-juste-un-petit-peu",
+    "level": "A2",
+    "title": "Juste un petit peu",
+    "englishTitle": "Just a Little Bit",
+    "theme": "Conversation",
+    "description": "A customer asks for just a little trim. Her hairdresser has big ideas.",
+    "imageQuery": "Two speech bubbles in a hair salon",
+    "bubbles": [
+      "Juste un petit peu, d'accord ?",
+      "Faites-moi confiance !"
+    ],
+    "paragraphs": [
+      {
+        "fr": "(Dans un salon de coiffure. Inès s'assoit devant le miroir.)\nMarco : Bonjour, Inès ! Ça fait longtemps. Qu'est-ce qu'on fait aujourd'hui ?\nInès : Bonjour, Marco. Pas grand-chose. Je voudrais couper juste un petit peu, ici, au bout des cheveux.\nMarco : Un petit peu… D'accord. Mais vous ne voulez pas changer ? Une nouvelle couleur, peut-être ?",
+        "en": "(In a hair salon. Inès sits down in front of the mirror.)\nMarco: Hello, Inès! It's been a long time. What are we doing today?\nInès: Hello, Marco. Not much. I'd like to cut just a little bit, here, at the ends of my hair.\nMarco: A little bit… All right. But don't you want a change? A new colour, maybe?"
+      },
+      {
+        "fr": "Inès : Non, merci. Pas de couleur.\nMarco : Du rose ? C'est très à la mode cette année. Ma cliente de dix heures a choisi le rose. Elle est ravie.\nInès : Je suis sûre qu'elle est très belle. Mais moi, je travaille dans une banque.\nMarco : Et alors ? Les clients de la banque vont adorer ! Bon, bon, d'accord. Pas de rose. Vous pouvez enlever vos lunettes, s'il vous plaît ?",
+        "en": "Inès: No, thank you. No colour.\nMarco: Pink? It's very fashionable this year. My ten o'clock client chose pink. She's delighted.\nInès: I'm sure she looks lovely. But I work in a bank.\nMarco: So what? The bank's customers will love it! All right, all right. No pink. Can you take off your glasses, please?"
+      },
+      {
+        "fr": "Inès : Sans mes lunettes, je ne vois rien, vous savez.\nMarco : Ce n'est pas un problème. Vous allez avoir une surprise.\nInès : Une surprise ? Marco, je ne veux pas de surprise. Juste un petit peu.\nMarco : Oui, oui. Un petit peu. Ne bougez pas… Vous savez, pour l'été, les cheveux très courts sont parfaits. On a moins chaud.\nInès : Marco ! Qu'est-ce que vous coupez ?\nMarco : Rien ! Je parle, c'est tout.",
+        "en": "Inès: Without my glasses, I can't see anything, you know.\nMarco: That's not a problem. You're going to get a surprise.\nInès: A surprise? Marco, I don't want a surprise. Just a little bit.\nMarco: Yes, yes. A little bit. Don't move… You know, for summer, very short hair is perfect. You feel less hot.\nInès: Marco! What are you cutting?\nMarco: Nothing! I'm just talking, that's all."
+      },
+      {
+        "fr": "(Vingt minutes plus tard.)\nMarco : Voilà, c'est fini. Vous pouvez remettre vos lunettes.\nInès : J'ai peur… Oh. Oh ! Mais… c'est très bien. Ce sont mes cheveux, mais en plus joli. Qu'est-ce que vous avez coupé ?\nMarco : Deux centimètres. Juste un petit peu, comme vous avez demandé.\nInès : Et toutes ces idées ? Le rose, les cheveux courts ?",
+        "en": "(Twenty minutes later.)\nMarco: There, it's finished. You can put your glasses back on.\nInès: I'm scared… Oh. Oh! But… it's very nice. It's my hair, but prettier. What did you cut?\nMarco: Two centimetres. Just a little bit, as you asked.\nInès: And all those ideas? The pink, the short hair?"
+      },
+      {
+        "fr": "Marco : C'était pour vous faire peur. Quand une cliente a peur, elle ne bouge pas. Et quand elle ne bouge pas, je coupe très bien.\nInès : Vous êtes terrible, Marco.\nMarco : Je sais. Alors, on se revoit dans deux mois ?\nInès : Dans deux mois. Mais je vous préviens : la prochaine fois, je garde mes lunettes.\nMarco : Pas de problème. Et moi, je garde le rose pour une autre cliente !",
+        "en": "Marco: That was to scare you. When a client is scared, she doesn't move. And when she doesn't move, I cut very well.\nInès: You're terrible, Marco.\nMarco: I know. So, shall we see each other again in two months?\nInès: In two months. But I'm warning you: next time, I'm keeping my glasses on.\nMarco: No problem. And I'll keep the pink for another client!"
+      }
+    ]
+  },
+  {
+    "id": "b1-le-tableau-des-taches",
+    "level": "B1",
+    "title": "Le tableau des tâches",
+    "englishTitle": "The Chore Chart",
+    "theme": "Conversation",
+    "description": "Two flatmates sit down to divide the housework, and a small mystery in the kitchen comes to light.",
+    "imageQuery": "Two speech bubbles over a shared kitchen table",
+    "bubbles": [
+      "Il faudrait qu'on parle.",
+      "Ça commence mal…"
+    ],
+    "paragraphs": [
+      {
+        "fr": "(Un mardi soir, dans la cuisine d'un appartement partagé. Camille pose une grande feuille sur la table.)\nCamille : Yanis, tu as cinq minutes ? Il faudrait qu'on parle de l'organisation de l'appartement.\nYanis : Ça commence mal. Quand quelqu'un dit « il faudrait qu'on parle », c'est rarement une bonne nouvelle.\nCamille : Mais non, rassure-toi. J'ai juste préparé un tableau des tâches. Les courses, le ménage, les poubelles… Comme ça, on sait qui fait quoi, et on évite les disputes.",
+        "en": "(One Tuesday evening, in the kitchen of a shared flat. Camille puts a large sheet of paper on the table.)\nCamille: Yanis, have you got five minutes? We ought to talk about how we organise the flat.\nYanis: That's a bad start. When someone says “we ought to talk”, it's rarely good news.\nCamille: No, don't worry. I've just made a chore chart. The shopping, the cleaning, the bins… That way, we know who does what, and we avoid arguments."
+      },
+      {
+        "fr": "Yanis : Des disputes ? On ne se dispute jamais.\nCamille : Pas encore. Mais je préfère être prévoyante. Alors, je propose que tu sortes les poubelles le lundi et le jeudi. Moi, je fais les courses le samedi.\nYanis : D'accord pour les poubelles. Et la vaisselle ? Tu as mis qui ?\nCamille : Justement, je voulais t'en parler. Depuis deux semaines, il se passe quelque chose de bizarre. Le soir, je laisse mes assiettes sales dans l'évier parce que je suis fatiguée. Et le matin, tout est propre et rangé.",
+        "en": "Yanis: Arguments? We never argue.\nCamille: Not yet. But I prefer to plan ahead. So, I suggest you take out the bins on Mondays and Thursdays. I'll do the shopping on Saturdays.\nYanis: Fine for the bins. And the washing-up? Who have you put down?\nCamille: Actually, I wanted to talk to you about that. For two weeks, something strange has been happening. In the evening, I leave my dirty plates in the sink because I'm tired. And in the morning, everything is clean and put away."
+      },
+      {
+        "fr": "Yanis : C'est peut-être un fantôme très bien élevé.\nCamille : Arrête. J'ai d'abord pensé que c'était toi, mais tu dors toujours quand je me lève. Et la semaine dernière, tu m'as dit que tu détestais faire la vaisselle.\nYanis : C'est vrai, je l'ai dit. Mais en fait… c'est moi.\nCamille : Toi ? Mais quand ?\nYanis : Vers deux heures du matin. Depuis que j'ai commencé mon nouveau travail, je dors mal. Je me lève, je tourne en rond, et faire la vaisselle me calme. L'eau chaude, le bruit des assiettes… C'est presque de la méditation.",
+        "en": "Yanis: Maybe it's a very well-mannered ghost.\nCamille: Stop it. At first I thought it was you, but you're always asleep when I get up. And last week, you told me you hated doing the washing-up.\nYanis: That's true, I said that. But actually… it's me.\nCamille: You? But when?\nYanis: Around two in the morning. Since I started my new job, I've been sleeping badly. I get up, I wander around, and doing the washing-up calms me down. The hot water, the sound of the plates… It's almost meditation."
+      },
+      {
+        "fr": "Camille : Je ne sais pas si je dois te remercier ou m'inquiéter.\nYanis : Les deux, peut-être. Mais ne t'en fais pas, je commence à m'habituer à mon travail. Je dors un peu mieux.\nCamille : Alors écoute, j'ai une meilleure idée pour notre tableau. Puisque la vaisselle te détend, elle est pour toi. Mais en échange, c'est moi qui cuisine le soir. Tu ne cuisines jamais, de toute façon.\nYanis : Si, je cuisine ! Des pâtes.\nCamille : Des pâtes au beurre, cinq soirs par semaine. Ce n'est pas de la cuisine, c'est une habitude.",
+        "en": "Camille: I don't know whether I should thank you or be worried.\nYanis: Both, maybe. But don't worry, I'm starting to get used to my job. I'm sleeping a bit better.\nCamille: Then listen, I have a better idea for our chart. Since the washing-up relaxes you, it's yours. But in exchange, I'll do the cooking in the evening. You never cook anyway.\nYanis: I do cook! Pasta.\nCamille: Pasta with butter, five evenings a week. That isn't cooking, it's a habit."
+      },
+      {
+        "fr": "Yanis : Bon, d'accord. Tu cuisines, je lave. Mais à une condition : la vaisselle, je la fais à une heure normale, comme tout le monde.\nCamille : Marché conclu. Et si tu n'arrives pas à dormir, tu frappes à ma porte. Je te prépare une tisane.\nYanis : Une tisane ? Je préférerais un gâteau.\nCamille : On verra. D'abord, signe ici, sous « vaisselle ».\nYanis : Tu es sérieuse ? Il faut signer ?\nCamille : Bien sûr. Dans cet appartement, on respecte les contrats.",
+        "en": "Yanis: Fine, all right. You cook, I wash up. But on one condition: I'll do the washing-up at a normal time, like everyone else.\nCamille: It's a deal. And if you can't sleep, you knock on my door. I'll make you a herbal tea.\nYanis: A herbal tea? I'd rather have a cake.\nCamille: We'll see. First, sign here, under “washing-up”.\nYanis: Are you serious? I have to sign?\nCamille: Of course. In this flat, we respect contracts."
+      }
+    ]
+  },
+  {
+    "id": "b1-le-parapluie-vert",
+    "level": "B1",
+    "title": "Le parapluie vert",
+    "englishTitle": "The Green Umbrella",
+    "theme": "Conversation",
+    "description": "At a station's lost property office, a man searches for an umbrella that matters more than it should.",
+    "imageQuery": "Two speech bubbles at a station lost property counter",
+    "bubbles": [
+      "Il est comment, votre parapluie ?",
+      "Vert, avec une tête de canard."
+    ],
+    "paragraphs": [
+      {
+        "fr": "(Au bureau des objets trouvés d'une grande gare. Un homme s'approche du guichet.)\nAntoine : Bonjour, madame. J'ai perdu un parapluie hier matin, dans le train de huit heures douze pour Rouen.\nMme Lebrun : Un parapluie… Vous savez combien de parapluies on nous apporte chaque semaine, monsieur ? Plus de deux cents. Il est comment, le vôtre ?\nAntoine : Il est vert.\nMme Lebrun : Vert. Très bien. Ça réduit un peu les possibilités. Pouvez-vous me donner plus de détails ?",
+        "en": "(At the lost property office of a big station. A man approaches the counter.)\nAntoine: Hello, madam. I lost an umbrella yesterday morning, on the 8:12 train to Rouen.\nMme Lebrun: An umbrella… Do you know how many umbrellas are brought to us every week, sir? More than two hundred. What is yours like?\nAntoine: It's green.\nMme Lebrun: Green. Very good. That narrows things down a little. Can you give me more details?"
+      },
+      {
+        "fr": "Antoine : Le manche est en bois, en forme de tête de canard. C'était le parapluie de mon grand-père.\nMme Lebrun : Un canard, voilà qui est original. Attendez, je vais vérifier dans la réserve.\n(Elle revient quelques minutes plus tard avec un parapluie vert.)\nMme Lebrun : C'est celui-ci ?\nAntoine : Oui ! C'est lui ! Merci infiniment… Mais attendez. Il y avait un petit papier dans la poche du parapluie. Il n'est plus là.\nMme Lebrun : Un papier ? Quel genre de papier ?",
+        "en": "Antoine: The handle is wooden, shaped like a duck's head. It was my grandfather's umbrella.\nMme Lebrun: A duck, now that's original. Wait, I'll check in the storeroom.\n(She comes back a few minutes later with a green umbrella.)\nMme Lebrun: Is this the one?\nAntoine: Yes! That's it! Thank you so much… But wait. There was a little piece of paper in the umbrella's pocket. It isn't there any more.\nMme Lebrun: A piece of paper? What sort of paper?"
+      },
+      {
+        "fr": "Antoine : C'est un peu gênant. Dans le train, j'ai parlé pendant une heure avec une femme. On a parlé de livres, de voyages, de nos grands-pères… Elle m'a écrit le nom d'une librairie qu'elle adore, et j'ai mis le papier dans la poche du parapluie. Puis je suis descendu à Rouen, et j'ai oublié le parapluie sur le siège.\nMme Lebrun : Et vous n'avez pas son numéro ?\nAntoine : Non. Je sais seulement qu'elle s'appelle Claire et qu'elle aime les romans policiers. Ce n'est pas beaucoup.",
+        "en": "Antoine: It's a bit embarrassing. On the train, I talked for an hour with a woman. We talked about books, travel, our grandfathers… She wrote down the name of a bookshop she loves, and I put the paper in the umbrella's pocket. Then I got off at Rouen, and I forgot the umbrella on the seat.\nMme Lebrun: And you don't have her number?\nAntoine: No. I only know that her name is Claire and that she likes detective novels. That isn't much."
+      },
+      {
+        "fr": "Mme Lebrun : Monsieur, vous n'allez pas me croire. Ce matin, une jeune femme est venue ici. Elle aussi demandait des nouvelles d'un parapluie vert avec une tête de canard.\nAntoine : Pardon ?\nMme Lebrun : Elle m'a expliqué qu'elle l'avait vu sur le siège après votre départ. Elle l'a apporté ici hier soir, puis elle est revenue ce matin pour savoir si quelqu'un l'avait réclamé. Elle avait l'air un peu déçue.\nAntoine : Et le papier ?\nMme Lebrun : Elle l'a repris. Elle a dit qu'elle avait une meilleure adresse.",
+        "en": "Mme Lebrun: Sir, you won't believe me. This morning, a young woman came here. She was also asking about a green umbrella with a duck's head.\nAntoine: Sorry?\nMme Lebrun: She explained that she had seen it on the seat after you left. She brought it here last night, then came back this morning to find out whether anyone had claimed it. She looked a little disappointed.\nAntoine: And the paper?\nMme Lebrun: She took it back. She said she had a better address."
+      },
+      {
+        "fr": "Antoine : Une meilleure adresse ? Je ne comprends pas.\nMme Lebrun : Moi non plus, au début. Mais elle m'a laissé une enveloppe. Elle m'a dit : « Si le propriétaire du canard vient, donnez-lui ceci. »\n(Antoine ouvre l'enveloppe et lit à voix haute.)\nAntoine : « Oubliez la librairie : elle est fermée le samedi. Le café d'en face, samedi à dix heures ? Claire. » Et il y a un numéro de téléphone.\nMme Lebrun : Vous voyez ? Ici, on ne retrouve pas seulement des parapluies.\nAntoine : Madame, vous êtes formidable.\nMme Lebrun : Je sais. Maintenant, signez ici, s'il vous plaît. Et ne perdez pas l'enveloppe.",
+        "en": "Antoine: A better address? I don't understand.\nMme Lebrun: Neither did I, at first. But she left me an envelope. She told me: “If the duck's owner comes, give him this.”\n(Antoine opens the envelope and reads aloud.)\nAntoine: “Forget the bookshop: it's closed on Saturdays. The café opposite, Saturday at ten? Claire.” And there's a phone number.\nMme Lebrun: You see? Here, we don't only find umbrellas.\nAntoine: Madam, you're wonderful.\nMme Lebrun: I know. Now sign here, please. And don't lose the envelope."
+      }
+    ]
+  },
+  {
+    "id": "b1-un-entretien-pas-comme-les-autres",
+    "level": "B1",
+    "title": "Un entretien pas comme les autres",
+    "englishTitle": "An Unusual Interview",
+    "theme": "Conversation",
+    "description": "A job interview in a little bookshop takes some unexpected turns.",
+    "imageQuery": "Two speech bubbles in a bookshop interview",
+    "bubbles": [
+      "Votre plus grand défaut ?",
+      "Je ne suis pas du matin."
+    ],
+    "paragraphs": [
+      {
+        "fr": "(Dans une petite librairie. Mme Duval, la propriétaire, reçoit un candidat.)\nMme Duval : Asseyez-vous, monsieur… Léo Martin, c'est bien ça ? Alors, pourquoi voulez-vous travailler dans une librairie ?\nLéo : Parce que j'adore conseiller des livres. Mes amis m'appellent quand ils ne savent pas quoi lire. Et j'ai travaillé deux ans dans une bibliothèque municipale, donc je connais bien le classement et les commandes.\nMme Duval : Très bien. Mais je ne vais pas vous poser les questions habituelles. Ça vous dérange ?\nLéo : Pas du tout. Au contraire.",
+        "en": "(In a small bookshop. Mme Duval, the owner, is interviewing a candidate.)\nMme Duval: Sit down, Mr… Léo Martin, is that right? So, why do you want to work in a bookshop?\nLéo: Because I love recommending books. My friends call me when they don't know what to read. And I worked for two years in a public library, so I know a lot about shelving and orders.\nMme Duval: Very good. But I'm not going to ask you the usual questions. Do you mind?\nLéo: Not at all. Quite the opposite."
+      },
+      {
+        "fr": "Mme Duval : Première question. Un client entre et me dit : « Je déteste lire. » Qu'est-ce que vous lui proposez ?\nLéo : Je lui demanderais d'abord ce qu'il aime faire. S'il aime le football, je lui proposerais un livre sur un grand match. S'il aime cuisiner, un roman où l'on mange beaucoup. Je pense que personne ne déteste vraiment lire. Certaines personnes n'ont simplement pas encore trouvé le bon livre.\nMme Duval : Joli. Un peu préparé, mais joli.\nLéo : Un peu préparé, je l'avoue.",
+        "en": "Mme Duval: First question. A customer comes in and says to me: “I hate reading.” What do you suggest to him?\nLéo: First I'd ask him what he likes doing. If he likes football, I'd suggest a book about a great match. If he likes cooking, a novel where people eat a lot. I don't think anyone really hates reading. Some people just haven't found the right book yet.\nMme Duval: Nice. A little rehearsed, but nice.\nLéo: A little rehearsed, I admit."
+      },
+      {
+        "fr": "Mme Duval : Deuxième question, plus difficile. Quel est votre plus grand défaut ? Et ne me répondez pas « je suis trop perfectionniste ». Tout le monde dit ça.\nLéo : D'accord… Alors, honnêtement, je ne suis pas du matin. Avant neuf heures et deux cafés, je suis capable de ranger un livre de cuisine au rayon voyages.\nMme Duval : C'est embêtant. La librairie ouvre à neuf heures.\nLéo : Je sais. C'est pour ça que j'hésitais à le dire. Mais je préfère être franc dès le début.",
+        "en": "Mme Duval: Second question, a harder one. What is your biggest flaw? And don't answer “I'm too much of a perfectionist”. Everyone says that.\nLéo: All right… Well, honestly, I'm not a morning person. Before nine o'clock and two coffees, I'm capable of putting a cookery book in the travel section.\nMme Duval: That's a nuisance. The bookshop opens at nine.\nLéo: I know. That's why I hesitated to say it. But I'd rather be frank from the start."
+      },
+      {
+        "fr": "Mme Duval : Dernière question. Regardez cette pile de livres sur le comptoir. Un client a réservé un livre la semaine dernière, mais j'ai perdu le papier avec le titre. Je me souviens seulement qu'il s'agit d'une histoire avec un phare, et que la couverture est bleue. Vous pouvez le trouver ?\n(Léo regarde la pile pendant quelques secondes, puis il prend un livre.)\nLéo : Celui-ci. La couverture est bleue, il y a un phare au dos, et quelqu'un a glissé un ticket de réservation à la page vingt.\nMme Duval : Ah ! Alors c'est là qu'il était, ce papier.",
+        "en": "Mme Duval: Last question. Look at this pile of books on the counter. A customer reserved a book last week, but I've lost the slip with the title. I only remember that it's a story with a lighthouse, and that the cover is blue. Can you find it?\n(Léo looks at the pile for a few seconds, then picks up a book.)\nLéo: This one. The cover is blue, there's a lighthouse on the back, and someone has slipped a reservation slip in at page twenty.\nMme Duval: Ah! So that's where that slip was."
+      },
+      {
+        "fr": "Léo : Alors… est-ce que j'ai le poste ?\nMme Duval : Je vais vous faire une confidence, monsieur Martin. Moi non plus, je ne suis pas du matin. J'ouvre à neuf heures depuis vingt ans, et depuis vingt ans, je le regrette.\nLéo : Vous voulez dire que…\nMme Duval : À partir du mois prochain, la librairie ouvrira à dix heures, et elle fermera plus tard le soir. Les gens achètent plus de livres après le travail, de toute façon. Vous commencez lundi ?\nLéo : Lundi, dix heures. J'apporterai les cafés.\nMme Duval : Deux pour vous, un pour moi. Bienvenue dans l'équipe.",
+        "en": "Léo: So… have I got the job?\nMme Duval: I'm going to tell you a secret, Mr Martin. I'm not a morning person either. I've been opening at nine for twenty years, and for twenty years I've regretted it.\nLéo: You mean that…\nMme Duval: From next month, the bookshop will open at ten, and it will close later in the evening. People buy more books after work anyway. Will you start on Monday?\nLéo: Monday, ten o'clock. I'll bring the coffees.\nMme Duval: Two for you, one for me. Welcome to the team."
+      }
+    ]
+  },
+  {
+    "id": "b1-bonne-annee-tout-le-monde",
+    "level": "B1",
+    "title": "Bonne année, tout le monde !",
+    "englishTitle": "Happy New Year, Everyone!",
+    "theme": "Conversation",
+    "description": "A family tries to celebrate New Year together on a video call, across three homes and two time zones.",
+    "imageQuery": "Two speech bubbles on a family video call",
+    "bubbles": [
+      "Gérard, tu es en sourdine !",
+      "Vous m'entendez, là ?"
+    ],
+    "paragraphs": [
+      {
+        "fr": "(Le 31 décembre, à 23 h 50. Sophie lance un appel vidéo avec toute sa famille.)\nSophie : Bonsoir tout le monde ! Vous m'entendez ? Papi, je vois seulement ton front. Tu peux baisser un peu la tablette ?\nPapi : Comme ça ? Moi, je ne vois rien, à part un petit carré avec mon nez dedans.\nSophie : Le petit carré, c'est toi. Les grands carrés, ce sont nous. Julie, tu es là ? Il est quelle heure à Montréal ?\nJulie : Il est six heures moins dix du soir. Je suis encore au bureau, mais j'ai fermé la porte.",
+        "en": "(31 December, at 11:50 p.m. Sophie starts a video call with her whole family.)\nSophie: Good evening, everyone! Can you hear me? Grandpa, I can only see your forehead. Can you lower the tablet a bit?\nGrandpa: Like this? I can't see anything except a little square with my nose in it.\nSophie: The little square is you. The big squares are us. Julie, are you there? What time is it in Montreal?\nJulie: It's ten to six in the evening. I'm still at the office, but I've closed the door."
+      },
+      {
+        "fr": "Sophie : Et Gérard ? Je le vois, il parle, il fait de grands gestes, mais on n'entend rien.\nJulie : Gérard, tu es en sourdine ! Il faut appuyer sur le micro !\nPapi : Il ne t'entend pas, puisqu'il est en sourdine.\nJulie : Non, Papi, la sourdine, ça veut dire que nous, on ne l'entend pas. Lui, il nous entend très bien.\nPapi : Alors pourquoi il ne fait rien ?\nSophie : Parce que c'est Gérard. Gérard, regarde ton écran, en bas à gauche. Le petit dessin barré. Voilà… Bravo !\nGérard : … et c'est pour ça que les huîtres de cette année sont exceptionnelles. Vous m'entendez, là ?",
+        "en": "Sophie: And Gérard? I can see him, he's talking, he's waving his arms about, but we can't hear anything.\nJulie: Gérard, you're on mute! You have to press the microphone!\nGrandpa: He can't hear you, since he's on mute.\nJulie: No, Grandpa, mute means that we can't hear him. He can hear us perfectly well.\nGrandpa: Then why isn't he doing anything?\nSophie: Because he's Gérard. Gérard, look at your screen, bottom left. The little crossed-out picture. There… Well done!\nGérard: … and that's why this year's oysters are exceptional. Can you hear me now?"
+      },
+      {
+        "fr": "Sophie : Oui, on t'entend ! Bon, il nous reste cinq minutes. Je propose qu'on dise chacun une bonne résolution pour l'année prochaine. Papi, tu commences ?\nPapi : Moi, je voudrais apprendre à utiliser cette tablette sans appeler Sophie trois fois par semaine.\nSophie : C'est une excellente résolution. Je la soutiens totalement.\nGérard : Moi, je vais me mettre au sport. Sérieusement, cette fois.\nJulie : Tu dis ça tous les ans, Gérard.\nGérard : Justement. Un jour, ça finira par être vrai.",
+        "en": "Sophie: Yes, we can hear you! Right, we have five minutes left. I suggest we each say one resolution for next year. Grandpa, will you start?\nGrandpa: I'd like to learn to use this tablet without calling Sophie three times a week.\nSophie: That's an excellent resolution. I support it completely.\nGérard: I'm going to take up sport. Seriously, this time.\nJulie: You say that every year, Gérard.\nGérard: Exactly. One day, it'll end up being true."
+      },
+      {
+        "fr": "Julie : Ma résolution, c'est de venir en France cet été. Ça fait trois ans que je ne vous ai pas vus en vrai.\nPapi : Ça, c'est la meilleure résolution de la soirée.\nSophie : Attention, il est minuit moins une ! Préparez-vous… Dix, neuf, huit…\nGérard : Attendez, ma femme apporte le champagne !\nSophie : … trois, deux, un… Bonne année !\nPapi et Gérard : Bonne année !\nJulie : Bonne année ! Enfin, pour vous. Moi, j'ai encore six heures à attendre.",
+        "en": "Julie: My resolution is to come to France this summer. It's been three years since I've seen you in person.\nGrandpa: Now that's the best resolution of the evening.\nSophie: Careful, it's one minute to midnight! Get ready… Ten, nine, eight…\nGérard: Wait, my wife's bringing the champagne!\nSophie: … three, two, one… Happy New Year!\nGrandpa and Gérard: Happy New Year!\nJulie: Happy New Year! Well, for you. I still have six hours to wait."
+      },
+      {
+        "fr": "Papi : Six heures ? Alors on recommence à six heures du matin pour Julie.\nSophie : Papi, tu ne vas pas te réveiller à six heures du matin !\nPapi : Pourquoi pas ? À mon âge, je me réveille toujours à six heures. Et pour une fois, j'aurai quelque chose d'intéressant à faire.\nGérard : Moi aussi, je serai réveillé. Je commence le sport demain, je vais courir.\nJulie : Gérard, il est minuit et tu as un verre de champagne à la main.\nGérard : Bon. Je commencerai après-demain. Bonne année, ma chérie. Et viens vite cet été.",
+        "en": "Grandpa: Six hours? Then we'll do it again at six in the morning for Julie.\nSophie: Grandpa, you're not going to wake up at six in the morning!\nGrandpa: Why not? At my age, I always wake up at six. And for once, I'll have something interesting to do.\nGérard: I'll be awake too. I'm starting sport tomorrow, I'm going running.\nJulie: Gérard, it's midnight and you have a glass of champagne in your hand.\nGérard: Fine. I'll start the day after tomorrow. Happy New Year, my dear. And come soon this summer."
+      }
+    ]
+  },
+  {
+    "id": "b1-le-chat-du-tableau",
+    "level": "B1",
+    "title": "Le chat du tableau",
+    "englishTitle": "The Cat in the Painting",
+    "theme": "Conversation",
+    "description": "During a museum visit, a curious girl spots a detail that the guide has never noticed.",
+    "imageQuery": "Two speech bubbles in front of a museum painting",
+    "bubbles": [
+      "Et le chat, là, sous la table ?",
+      "Quel chat ?"
+    ],
+    "paragraphs": [
+      {
+        "fr": "(Dans un musée, devant un grand tableau. Une guide parle à un petit groupe de visiteurs.)\nLa guide : Ce tableau a été peint en 1874. Il représente un marché à Paris, un matin d'hiver. Regardez les couleurs : le peintre a utilisé beaucoup de gris et de blanc, mais aussi des touches de rouge pour les fruits et les foulards des marchandes.\nLina : Excusez-moi, madame ! Pourquoi le chat est caché ?\nLe père : Lina, on ne coupe pas la parole. Pardon, madame.\nLa guide : Ce n'est rien. Un chat ? Il n'y a pas de chat dans ce tableau, mademoiselle.",
+        "en": "(In a museum, in front of a large painting. A guide is talking to a small group of visitors.)\nThe guide: This painting was made in 1874. It shows a market in Paris on a winter morning. Look at the colours: the painter used a lot of grey and white, but also touches of red for the fruit and the stallholders' scarves.\nLina: Excuse me, madam! Why is the cat hiding?\nThe father: Lina, we don't interrupt. Sorry, madam.\nThe guide: It's nothing. A cat? There's no cat in this painting, young lady."
+      },
+      {
+        "fr": "Lina : Si, il y en a un. Là, en bas, sous la table de la marchande de pommes. On voit ses yeux et le bout de sa queue.\nLa guide : Je présente ce tableau depuis douze ans, et je n'ai jamais vu de chat… Attendez. Approchez-vous, tout le monde, mais sans toucher.\n(Le groupe s'approche. Pendant un moment, personne ne dit rien.)\nUn visiteur : Elle a raison ! Il y a deux petits yeux jaunes dans l'ombre.\nLa guide : C'est incroyable. Comment tu l'as vu ?\nLina : Je suis petite. Je regarde toujours en bas.",
+        "en": "Lina: Yes, there is one. There, at the bottom, under the apple seller's table. You can see its eyes and the tip of its tail.\nThe guide: I've been presenting this painting for twelve years, and I've never seen a cat… Wait. Come closer, everyone, but don't touch.\n(The group moves closer. For a moment, nobody says anything.)\nA visitor: She's right! There are two little yellow eyes in the shadow.\nThe guide: That's incredible. How did you see it?\nLina: I'm small. I always look down."
+      },
+      {
+        "fr": "Le père : Elle fait ça partout. Au restaurant, elle trouve toujours les miettes sous les tables.\nLa guide : C'est une qualité précieuse dans un musée. Les adultes regardent souvent le centre d'un tableau, là où le peintre veut qu'on regarde. Les détails dans les coins nous échappent. Mais je me demande pourquoi le peintre a caché ce chat.\nLina : Peut-être que c'était son chat à lui. Il voulait le mettre dans le tableau, mais pas trop, pour que les gens ne se moquent pas de lui.\nLa guide : C'est une très belle hypothèse.",
+        "en": "The father: She does that everywhere. In restaurants, she always finds the crumbs under the tables.\nThe guide: That's a precious quality in a museum. Adults often look at the centre of a painting, where the painter wants us to look. The details in the corners escape us. But I wonder why the painter hid this cat.\nLina: Maybe it was his own cat. He wanted to put it in the painting, but not too much, so that people wouldn't make fun of him.\nThe guide: That's a lovely hypothesis."
+      },
+      {
+        "fr": "(La guide sort son téléphone et cherche quelque chose.)\nLa guide : Écoutez ça. Dans une lettre à son frère, le peintre parle d'un chat qui le suivait partout dans le quartier du marché. Il l'appelait « l'Inspecteur », parce qu'il surveillait tous les étals. On a toujours pensé que c'était une simple anecdote. Mais il l'a peut-être vraiment peint.\nLina : L'Inspecteur ! C'est un nom parfait. Il a l'air de surveiller les pommes.\nUn visiteur : Ou de les voler.\nLa guide : Un inspecteur qui vole… Ce serait un excellent sujet de roman policier.",
+        "en": "(The guide takes out her phone and looks for something.)\nThe guide: Listen to this. In a letter to his brother, the painter talks about a cat that followed him everywhere around the market district. He called it “the Inspector”, because it kept an eye on all the stalls. People always thought it was just an anecdote. But perhaps he really did paint it.\nLina: The Inspector! That's a perfect name. He looks like he's watching the apples.\nA visitor: Or stealing them.\nThe guide: An inspector who steals… That would make an excellent subject for a detective novel."
+      },
+      {
+        "fr": "La guide : Mademoiselle, je vais signaler ta découverte à la conservatrice du musée. Comment tu t'appelles ?\nLina : Lina. Avec un seul « n ».\nLa guide : Merci, Lina. À partir d'aujourd'hui, quand je présenterai ce tableau, je parlerai de l'Inspecteur. Et je dirai qu'une jeune visiteuse l'a retrouvé.\nLe père : Tu entends ça, Lina ? Tu es entrée dans l'histoire de l'art.\nLina : Est-ce qu'il y a d'autres chats cachés dans le musée ?\nLa guide : Je ne sais pas. Mais si vous avez encore une heure, je crois que nous allons le découvrir ensemble.",
+        "en": "The guide: Young lady, I'm going to report your discovery to the museum's curator. What's your name?\nLina: Lina. With just one “n”.\nThe guide: Thank you, Lina. From today, when I present this painting, I'll talk about the Inspector. And I'll say that a young visitor found him again.\nThe father: Do you hear that, Lina? You've gone down in art history.\nLina: Are there other hidden cats in the museum?\nThe guide: I don't know. But if you have another hour, I think we're going to find out together."
+      }
+    ]
+  },
+  {
+    "id": "b2-le-pain-de-la-discorde",
+    "level": "B2",
+    "title": "Le pain de la discorde",
+    "englishTitle": "The Bread of Discord",
+    "theme": "Conversation",
+    "description": "Two old friends at a café argue over whether their village should buy its last bakery, and each defends more than bread.",
+    "imageQuery": "Two speech bubbles at a village café table",
+    "bubbles": [
+      "Tu veux qu'on rachète la boulangerie ?",
+      "Laisse-moi finir !"
+    ],
+    "paragraphs": [
+      {
+        "fr": "(Un café de village, un dimanche matin. Odile et Bernard, amis depuis quarante ans, partagent un journal.)\nOdile : Tu as vu l'affiche à la mairie ? Monsieur Lefèvre prend sa retraite en juin, et personne ne veut reprendre la boulangerie. Si rien ne bouge, dans six mois, on achètera notre pain au supermarché, à quinze kilomètres.\nBernard : Je l'ai vue, oui. C'est triste, mais c'est comme ça. Les villages se vident, les commerces ferment. On ne va pas empêcher la Terre de tourner.\nOdile : Justement, j'ai une idée. Et avant que tu lèves les yeux au ciel, laisse-moi finir.",
+        "en": "(A village café, one Sunday morning. Odile and Bernard, friends for forty years, are sharing a newspaper.)\nOdile: Did you see the poster at the town hall? Monsieur Lefèvre is retiring in June, and nobody wants to take over the bakery. If nothing changes, in six months we'll be buying our bread at the supermarket, fifteen kilometres away.\nBernard: Yes, I saw it. It's sad, but that's how it is. Villages are emptying, shops are closing. We're not going to stop the Earth from turning.\nOdile: That's exactly why I have an idea. And before you roll your eyes, let me finish."
+      },
+      {
+        "fr": "Bernard : Je ne lève jamais les yeux au ciel. Je réfléchis en regardant le plafond, nuance.\nOdile : Alors réfléchis bien. Je propose que les habitants rachètent ensemble la boulangerie, sous forme de coopérative. Chacun met une petite somme, on embauche un jeune boulanger, et les bénéfices restent au village. Ça existe déjà ailleurs, et ça fonctionne.\nBernard : Ça fonctionne quand tout va bien. Mais le jour où le four tombe en panne, ou que le boulanger s'en va, qui paie ? Toi, moi, et les deux cents personnes qui auront chacune un avis différent sur la cuisson de la baguette.\nOdile : Tu exagères.\nBernard : À peine. Tu te souviens de la réunion sur la couleur des bancs de la place ? Trois heures de débat pour finalement garder le vert.",
+        "en": "Bernard: I never roll my eyes. I think while looking at the ceiling, there's a difference.\nOdile: Then think carefully. I'm suggesting that the residents buy the bakery together, as a cooperative. Everyone puts in a small sum, we hire a young baker, and the profits stay in the village. It already exists elsewhere, and it works.\nBernard: It works when everything goes well. But the day the oven breaks down, or the baker leaves, who pays? You, me, and the two hundred people who will each have a different opinion on how well-baked the baguette should be.\nOdile: You're exaggerating.\nBernard: Barely. Do you remember the meeting about the colour of the benches on the square? Three hours of debate, only to keep them green in the end."
+      },
+      {
+        "fr": "Odile : D'accord, les bancs, c'était un fiasco. Mais une boulangerie, ce n'est pas un banc. C'est l'endroit où l'on se croise le matin, où madame Petit apprend les nouvelles, où les enfants dépensent leurs premières pièces. Si elle ferme, ce n'est pas seulement le pain qui disparaît, c'est une partie de ce qui fait de nous un village.\nBernard : Tu parles comme un discours électoral.\nOdile : Et toi comme un tableur. Tu as passé trente ans à faire les comptes des autres ; tu ne pourrais pas, pour une fois, faire des comptes pour quelque chose qui te tient à cœur ?",
+        "en": "Odile: All right, the benches were a fiasco. But a bakery isn't a bench. It's the place where we bump into each other in the morning, where Madame Petit catches up on the news, where children spend their first coins. If it closes, it isn't just the bread that disappears, it's part of what makes us a village.\nBernard: You sound like an election speech.\nOdile: And you sound like a spreadsheet. You spent thirty years doing other people's accounts; couldn't you, for once, do the accounts for something you care about?"
+      },
+      {
+        "fr": "(Bernard repose sa tasse et se tait un long moment.)\nBernard : Tu sais ce qui m'agace, chez toi ? C'est que tu as souvent raison, mais pour de mauvaises raisons. La nostalgie, ça ne paie pas un four. En revanche… si on fait un vrai plan de financement, avec des prévisions réalistes, une réserve pour les imprévus et un règlement clair pour éviter les débats sur la cuisson, alors là, peut-être.\nOdile : Peut-être ? Venant de toi, c'est presque un oui.\nBernard : Ne t'emballe pas. J'ai dit « peut-être », et j'ai dit « vrai plan ». Pas une collection de bonnes intentions sur une nappe à carreaux.",
+        "en": "(Bernard puts his cup down and goes quiet for a long moment.)\nBernard: Do you know what annoys me about you? You're often right, but for the wrong reasons. Nostalgia doesn't pay for an oven. On the other hand… if we draw up a real financing plan, with realistic forecasts, a reserve for the unexpected and clear rules to avoid debates about the baking, then, maybe.\nOdile: Maybe? Coming from you, that's almost a yes.\nBernard: Don't get carried away. I said “maybe”, and I said “a real plan”. Not a collection of good intentions on a checked tablecloth."
+      },
+      {
+        "fr": "Odile : Alors marché conclu : moi, je convaincs les habitants, et toi, tu fais les comptes. Je réserve la salle des fêtes pour jeudi prochain.\nBernard : Jeudi ? Tu ne perds pas de temps.\nOdile : À notre âge, on n'a plus le luxe d'attendre. Et puis, Lefèvre part en juin.\nBernard : Bon. Mais j'ai une condition non négociable.\nOdile : Laquelle ?\nBernard : Le premier croissant de la coopérative, c'est pour moi. Et je veux qu'il soit bien doré, pas pâle comme ceux de Lefèvre.\nOdile : Tu vois ? Tu as déjà un avis sur la cuisson. La réunion de jeudi va être longue.",
+        "en": "Odile: Then it's a deal: I'll convince the residents, and you'll do the accounts. I'll book the village hall for next Thursday.\nBernard: Thursday? You don't waste any time.\nOdile: At our age, we no longer have the luxury of waiting. Besides, Lefèvre leaves in June.\nBernard: Fine. But I have one non-negotiable condition.\nOdile: Which is?\nBernard: The cooperative's first croissant is mine. And I want it nicely golden, not pale like Lefèvre's.\nOdile: You see? You already have an opinion on the baking. Thursday's meeting is going to be long."
+      }
+    ]
+  },
+  {
+    "id": "b2-intraduisible",
+    "level": "B2",
+    "title": "Intraduisible",
+    "englishTitle": "Untranslatable",
+    "theme": "Conversation",
+    "description": "Two translators argue over a single joke in a children's book, and discover that fidelity can take surprising forms.",
+    "imageQuery": "Two speech bubbles over a desk of dictionaries",
+    "bubbles": [
+      "C'est intraduisible.",
+      "Rien n'est intraduisible."
+    ],
+    "paragraphs": [
+      {
+        "fr": "(Dans un bureau encombré de dictionnaires. Mathilde et Samir traduisent en anglais un roman pour enfants.)\nSamir : Mathilde, je bloque depuis une heure sur la page quarante-deux. La chanteuse monte sur scène, elle ouvre la bouche et elle dit : « Excusez-moi, j'ai un chat dans la gorge. » Et à ce moment précis, un vrai chat sort du piano. Les enfants français vont adorer. Mais en anglais, ça ne veut rien dire.\nMathilde : Bien sûr. En anglais, on n'a pas un chat dans la gorge, on a une grenouille.\nSamir : Exactement. Donc c'est intraduisible.\nMathilde : Rien n'est intraduisible. Certaines choses coûtent simplement plus cher que d'autres.",
+        "en": "(In an office cluttered with dictionaries. Mathilde and Samir are translating a children's novel into English.)\nSamir: Mathilde, I've been stuck on page forty-two for an hour. The singer goes on stage, opens her mouth and says: “Excuse me, I have a cat in my throat.” And at that precise moment, a real cat comes out of the piano. French children will love it. But in English, it doesn't mean anything.\nMathilde: Of course. In English, you don't have a cat in your throat, you have a frog.\nSamir: Exactly. So it's untranslatable.\nMathilde: Nothing is untranslatable. Some things just cost more than others."
+      },
+      {
+        "fr": "Samir : Alors je propose la solution la plus simple : on remplace le chat par une grenouille. La chanteuse a une grenouille dans la gorge, une grenouille sort du piano, et tout le monde rit.\nMathilde : Et au chapitre suivant ?\nSamir : Comment ça ?\nMathilde : Tu as lu la suite ? Le chat du piano devient le personnage principal. Il accompagne l'héroïne pendant tout le livre, il dort dans son chapeau, il sauve le théâtre d'une inondation au chapitre douze. Si tu le transformes en grenouille à la page quarante-deux, tu dois réécrire deux cents pages. Et l'illustratrice risque de ne pas apprécier.\nSamir : Ah. Je n'étais pas encore arrivé au chapitre douze.",
+        "en": "Samir: Then I suggest the simplest solution: we replace the cat with a frog. The singer has a frog in her throat, a frog comes out of the piano, and everyone laughs.\nMathilde: And in the next chapter?\nSamir: What do you mean?\nMathilde: Have you read what comes next? The cat from the piano becomes the main character. It goes everywhere with the heroine throughout the book, it sleeps in her hat, it saves the theatre from a flood in chapter twelve. If you turn it into a frog on page forty-two, you'll have to rewrite two hundred pages. And the illustrator might not be pleased.\nSamir: Ah. I hadn't got to chapter twelve yet."
+      },
+      {
+        "fr": "Mathilde : C'est le piège classique du traducteur : on se concentre sur une phrase et on oublie le livre. Une traduction fidèle, ce n'est pas une traduction qui reproduit chaque mot. C'est une traduction qui produit sur le lecteur anglais le même effet que l'original sur le lecteur français. Ici, l'effet, c'est la surprise et le rire. Le chat, lui, doit rester un chat.\nSamir : Donc il nous faut une expression anglaise avec un chat, qui parle de la voix ou de la parole, et qui puisse s'appliquer à une chanteuse incapable de chanter. Autrement dit, un miracle.\nMathilde : Pas forcément un miracle. Réfléchis. Qu'est-ce qu'on dit en anglais à quelqu'un qui reste muet ?",
+        "en": "Mathilde: That's the classic translator's trap: you concentrate on one sentence and forget the book. A faithful translation isn't a translation that reproduces every word. It's one that has the same effect on the English reader as the original has on the French reader. Here, the effect is surprise and laughter. The cat, however, has to stay a cat.\nSamir: So we need an English expression with a cat, that's about the voice or speaking, and that could apply to a singer who can't sing. In other words, a miracle.\nMathilde: Not necessarily a miracle. Think. What do you say in English to someone who stays silent?"
+      },
+      {
+        "fr": "(Samir fixe son écran, puis se redresse brusquement.)\nSamir : « Cat got your tongue? » Le chat t'a mangé la langue ? C'est ça ! La chanteuse ouvre la bouche, aucun son ne sort, et le chef d'orchestre lui demande : « Cat got your tongue? » Et là, le chat sort du piano, l'air parfaitement innocent.\nMathilde : Voilà. Le chat reste un chat, la blague reste une blague, et l'illustration n'a pas besoin de changer. On perd la réplique de la chanteuse, mais on en gagne une pour le chef d'orchestre, qui en avait bien besoin : dans la version française, il ne dit pas un mot de tout le livre.\nSamir : C'est presque mieux que l'original.\nMathilde : Ne dis jamais ça devant l'autrice.",
+        "en": "(Samir stares at his screen, then suddenly sits up straight.)\nSamir: “Cat got your tongue?” The cat has eaten your tongue? That's it! The singer opens her mouth, no sound comes out, and the conductor asks her: “Cat got your tongue?” And then the cat comes out of the piano, looking perfectly innocent.\nMathilde: There you go. The cat stays a cat, the joke stays a joke, and the illustration doesn't need to change. We lose the singer's line, but we gain one for the conductor, who badly needed it: in the French version, he doesn't say a word in the whole book.\nSamir: It's almost better than the original.\nMathilde: Never say that in front of the author."
+      },
+      {
+        "fr": "Samir : Tu crois qu'elle acceptera ?\nMathilde : Je lui écrirai pour lui expliquer notre choix. Les bons auteurs comprennent qu'une traduction est une seconde vie, pas une photocopie. D'ailleurs, la semaine dernière, elle m'a avoué qu'elle avait hésité entre le chat et un perroquet.\nSamir : Un perroquet ? Heureusement qu'elle a choisi le chat. Je ne connais aucune expression anglaise où un perroquet perd la voix.\nMathilde : Moi non plus. Allez, note la solution, et passe à la page quarante-trois.\nSamir : Qu'est-ce qui se passe à la page quarante-trois ?\nMathilde : Le pianiste dit qu'il a « d'autres chats à fouetter ». Bon courage.",
+        "en": "Samir: Do you think she'll accept it?\nMathilde: I'll write to her to explain our choice. Good authors understand that a translation is a second life, not a photocopy. Besides, last week she admitted to me that she had hesitated between the cat and a parrot.\nSamir: A parrot? Luckily she chose the cat. I don't know a single English expression where a parrot loses its voice.\nMathilde: Neither do I. Come on, write down the solution, and move on to page forty-three.\nSamir: What happens on page forty-three?\nMathilde: The pianist says he has “other cats to whip”, which means other fish to fry. Good luck."
+      }
+    ]
+  },
+  {
+    "id": "b2-le-temoin-bavard",
+    "level": "B2",
+    "title": "Le témoin bavard",
+    "englishTitle": "The Talkative Witness",
+    "theme": "Conversation",
+    "description": "A young gendarme questions a chatty neighbour about a missing garden gnome that keeps sending postcards.",
+    "imageQuery": "Two speech bubbles in a flower garden",
+    "bubbles": [
+      "Vous avez vu quelque chose ?",
+      "J'ai tout vu, jeune homme."
+    ],
+    "paragraphs": [
+      {
+        "fr": "(Dans un jardin fleuri. Un jeune gendarme, carnet à la main, interroge une voisine de quatre-vingt-deux ans.)\nLe gendarme : Madame Fontaine, merci de me recevoir. Votre voisin, monsieur Bertin, a porté plainte. Son nain de jardin a disparu il y a trois semaines, et depuis, il reçoit des cartes postales signées par… le nain lui-même. Rome, Vienne, Prague. Vous avez remarqué quelque chose d'inhabituel ?\nMme Fontaine : Jeune homme, à mon âge, on remarque tout. C'est d'ailleurs la seule activité que mon médecin ne m'a pas encore interdite. Vous prendrez bien un peu de thé ?\nLe gendarme : Volontiers, mais rapidement, si possible.",
+        "en": "(In a garden full of flowers. A young gendarme, notebook in hand, is questioning an eighty-two-year-old neighbour.)\nThe gendarme: Madame Fontaine, thank you for seeing me. Your neighbour, Monsieur Bertin, has filed a complaint. His garden gnome disappeared three weeks ago, and since then, he has been receiving postcards signed by… the gnome himself. Rome, Vienna, Prague. Have you noticed anything unusual?\nMme Fontaine: Young man, at my age, you notice everything. In fact, it's the only activity my doctor hasn't forbidden me yet. You'll have a little tea, won't you?\nThe gendarme: Gladly, but quickly, if possible."
+      },
+      {
+        "fr": "Mme Fontaine : Rapidement… Votre génération est toujours pressée. Bref. Le soir de la disparition, il faisait un temps magnifique, et j'arrosais mes hortensias. Vous savez qu'il faut les arroser le soir ? Le matin, l'eau s'évapore, c'est du gaspillage. Mon mari disait toujours…\nLe gendarme : Madame, le soir de la disparition, vous avez vu quelqu'un ?\nMme Fontaine : J'y venais. J'ai vu un grand garçon avec un sac à dos énorme, une casquette rouge et des chaussures de randonnée toutes neuves. Il a sauté par-dessus la haie avec une souplesse admirable, il a pris le nain sous le bras, et il est reparti en courant.\nLe gendarme : Et vous n'avez prévenu personne ?",
+        "en": "Mme Fontaine: Quickly… Your generation is always in a hurry. Anyway. On the evening of the disappearance, the weather was magnificent, and I was watering my hydrangeas. Did you know you should water them in the evening? In the morning, the water evaporates, it's a waste. My husband always used to say…\nThe gendarme: Madame, on the evening of the disappearance, did you see anyone?\nMme Fontaine: I was getting to that. I saw a tall boy with an enormous backpack, a red cap and brand-new hiking boots. He jumped over the hedge with admirable agility, took the gnome under his arm, and ran off.\nThe gendarme: And you didn't tell anyone?"
+      },
+      {
+        "fr": "Mme Fontaine : Pourquoi aurais-je prévenu quelqu'un ? Je savais très bien qui c'était.\nLe gendarme : Vous le connaissez ?\nMme Fontaine : Tout le quartier le connaît. C'est Arthur, le petit-fils de monsieur Bertin. Enfin, « petit »… il mesure un mètre quatre-vingt-dix maintenant. Il vient de finir ses études et il est parti faire le tour de l'Europe en train. Avant de partir, il est venu me demander mon avis. Il trouvait que son grand-père s'ennuyait depuis sa retraite, qu'il ne sortait plus de son jardin, et qu'il ne parlait plus qu'à son nain.\nLe gendarme : Et votre avis, c'était quoi ?",
+        "en": "Mme Fontaine: Why would I have told anyone? I knew perfectly well who it was.\nThe gendarme: You know him?\nMme Fontaine: The whole neighbourhood knows him. It's Arthur, Monsieur Bertin's grandson, his “petit-fils”, as we say. Well, “petit”… he's one metre ninety now. He's just finished his studies and he's gone off to tour Europe by train. Before he left, he came to ask my opinion. He thought his grandfather had been bored since retiring, that he never left his garden any more, and that he only talked to his gnome.\nThe gendarme: And what was your opinion?"
+      },
+      {
+        "fr": "Mme Fontaine : Je lui ai dit que c'était l'idée la plus intelligente que j'aie entendue depuis des années. Si le nain voyage et envoie des cartes, monsieur Bertin finira peut-être par avoir envie de voyager lui aussi. C'est moi qui ai rédigé la première carte, d'ailleurs. Arthur écrit comme un médecin ; personne n'aurait pu le lire.\nLe gendarme : Madame Fontaine, vous êtes en train de m'avouer que vous êtes complice d'un vol.\nMme Fontaine : D'un emprunt, jeune homme. Un emprunt à visée thérapeutique. Et regardez par-dessus la haie, si vous ne me croyez pas.\n(Le gendarme se lève. Dans le jardin voisin, monsieur Bertin étudie une grande carte de l'Europe, entouré de guides touristiques.)",
+        "en": "Mme Fontaine: I told him it was the most intelligent idea I'd heard in years. If the gnome travels and sends postcards, Monsieur Bertin might end up wanting to travel too. In fact, I wrote the first card myself. Arthur writes like a doctor; nobody could have read it.\nThe gendarme: Madame Fontaine, you are confessing to me that you are an accomplice to a theft.\nMme Fontaine: To a loan, young man. A loan for therapeutic purposes. And look over the hedge, if you don't believe me.\n(The gendarme stands up. In the neighbouring garden, Monsieur Bertin is studying a large map of Europe, surrounded by travel guides.)"
+      },
+      {
+        "fr": "Mme Fontaine : Il a acheté ces guides la semaine dernière. Hier, il m'a demandé si je connaissais Vienne. Je lui ai répondu que oui, et que l'opéra était encore plus beau que sur la carte postale du nain.\nLe gendarme : Je comprends mieux. Mais que voulez-vous que j'écrive dans mon rapport ?\nMme Fontaine : Écrivez la vérité : le nain va bien, il voyage, et il rentrera à la fin du mois. Et si monsieur Bertin décide d'aller le chercher lui-même à Vienne, je crois que l'enquête sera close de la plus belle des manières.\nLe gendarme : Vous savez, madame, à l'école de gendarmerie, on m'a appris à me méfier des témoins trop bavards.\nMme Fontaine : On a eu raison. Reprenez donc un peu de thé.",
+        "en": "Mme Fontaine: He bought those guides last week. Yesterday, he asked me if I knew Vienna. I told him I did, and that the opera house was even more beautiful than on the gnome's postcard.\nThe gendarme: I understand better now. But what do you want me to write in my report?\nMme Fontaine: Write the truth: the gnome is well, he's travelling, and he'll be home at the end of the month. And if Monsieur Bertin decides to go and fetch him from Vienna himself, I think the case will be closed in the loveliest possible way.\nThe gendarme: You know, madame, at gendarmerie school I was taught to be wary of witnesses who talk too much.\nMme Fontaine: They were right. Do have a little more tea."
+      }
+    ]
+  },
+  {
+    "id": "b2-le-prix-d-une-machine-a-ecrire",
+    "level": "B2",
+    "title": "Le prix d'une machine à écrire",
+    "englishTitle": "The Price of a Typewriter",
+    "theme": "Conversation",
+    "description": "At a flea market, a young writer and an old seller haggle over a typewriter, though money isn't really what's at stake.",
+    "imageQuery": "Two speech bubbles at a flea market stall",
+    "bubbles": [
+      "Cent euros ? Vous plaisantez.",
+      "Ici, on trouve une histoire."
+    ],
+    "paragraphs": [
+      {
+        "fr": "(Un dimanche matin, dans une brocante. Une jeune femme s'arrête devant une vieille machine à écrire.)\nClémence : Bonjour, monsieur. Elle marche encore, cette machine ?\nGaston : Si elle marche ? Elle marche mieux que moi, mademoiselle. Il lui manque juste un ruban neuf, et la touche « z » colle un peu. Mais franchement, en français, on se passe assez bien du « z ».\nClémence : C'est combien ?\nGaston : Cent euros.\nClémence : Cent euros ? Vous plaisantez. Sur internet, on en trouve à quarante.\nGaston : Sur internet, on trouve des machines. Ici, on trouve une histoire.",
+        "en": "(One Sunday morning, at a flea market. A young woman stops in front of an old typewriter.)\nClémence: Hello, sir. Does this machine still work?\nGaston: Does it work? It works better than I do, mademoiselle. It just needs a new ribbon, and the “z” key sticks a little. But frankly, in French, you can get by quite well without the “z”.\nClémence: How much is it?\nGaston: A hundred euros.\nClémence: A hundred euros? You're joking. On the internet, you can find them for forty.\nGaston: On the internet, you find machines. Here, you find a story."
+      },
+      {
+        "fr": "Clémence : Ah, voilà l'argument de vente. Laissez-moi deviner : elle a appartenu à un grand écrivain, qui a tapé dessus un chef-d'œuvre oublié.\nGaston : Pas du tout. Elle a appartenu à ma femme, qui était secrétaire dans une compagnie d'assurances. Elle a tapé dessus des milliers de lettres d'une banalité absolue. « Madame, nous accusons réception de votre courrier du quatorze courant. » Mais le soir, quand les enfants dormaient, elle écrivait autre chose.\nClémence : Quoi donc ?\nGaston : Des romans d'aventures. Des pirates, des explorateurs, des trésors cachés sur des îles qui n'existent sur aucune carte. Elle n'en a jamais publié aucun.",
+        "en": "Clémence: Ah, here comes the sales pitch. Let me guess: it belonged to a great writer, who typed a forgotten masterpiece on it.\nGaston: Not at all. It belonged to my wife, who was a secretary at an insurance company. She typed thousands of utterly ordinary letters on it. “Madam, we acknowledge receipt of your letter of the fourteenth of this month.” But in the evening, when the children were asleep, she wrote something else.\nClémence: What was that?\nGaston: Adventure novels. Pirates, explorers, treasure hidden on islands that don't exist on any map. She never published a single one."
+      },
+      {
+        "fr": "Clémence : Et pourquoi la vendez-vous, alors ?\nGaston : Parce qu'elle me l'a demandé. Depuis que nos petits-enfants lui ont offert un ordinateur, elle écrit tous les matins et elle prétend qu'elle n'a jamais été aussi productive. Elle a même ouvert un blog, figurez-vous : elle publie un chapitre par semaine, et elle a plus de lecteurs que je n'ai d'amis. Mais elle m'a donné une consigne très stricte : la machine ne doit pas finir sur une étagère, comme décoration. Elle doit aller à quelqu'un qui écrit.\nClémence : Et comment savez-vous que j'écris ?\nGaston : Vous avez de l'encre sur les doigts, un carnet qui dépasse de votre poche, et vous regardez cette machine comme d'autres regardent une voiture de sport.",
+        "en": "Clémence: Then why are you selling it?\nGaston: Because she asked me to. Since our grandchildren gave her a computer, she writes every morning and claims she has never been so productive. She's even started a blog, if you can believe it: she publishes a chapter a week, and she has more readers than I have friends. But she gave me very strict instructions: the machine mustn't end up on a shelf as a decoration. It has to go to someone who writes.\nClémence: And how do you know I write?\nGaston: You have ink on your fingers, a notebook sticking out of your pocket, and you look at this machine the way other people look at a sports car."
+      },
+      {
+        "fr": "Clémence : Bon. Je l'avoue, j'écris. J'essaie, plutôt. Je travaille sur un roman depuis deux ans, et je n'arrive pas à dépasser le chapitre trois. Sur l'ordinateur, j'efface tout. Je me suis dit qu'avec une machine à écrire, je serais obligée d'avancer. On ne peut pas effacer, on ne peut que continuer.\nGaston : Ma femme disait exactement la même chose : « La machine à écrire n'a pas de marche arrière. »\nClémence : Alors faisons un marché. Je n'ai pas cent euros. J'en ai cinquante, et j'ai besoin du reste pour manger ce mois-ci.\nGaston : Cinquante euros… et la première page de votre chapitre quatre, tapée sur cette machine et déposée ici le mois prochain.",
+        "en": "Clémence: All right. I admit it, I write. I try to, rather. I've been working on a novel for two years, and I can't get past chapter three. On the computer, I delete everything. I thought that with a typewriter, I'd be forced to move forward. You can't delete, you can only keep going.\nGaston: My wife used to say exactly the same thing: “A typewriter has no reverse gear.”\nClémence: Then let's make a deal. I don't have a hundred euros. I have fifty, and I need the rest to eat this month.\nGaston: Fifty euros… and the first page of your chapter four, typed on this machine and dropped off here next month."
+      },
+      {
+        "fr": "Clémence : C'est du chantage.\nGaston : C'est de l'édition. Je serai votre premier lecteur, et ma femme la deuxième. Elle est très exigeante, je vous préviens, surtout sur les dialogues.\nClémence : Et si je n'y arrive pas ? Si dans un mois, je n'ai toujours rien écrit ?\nGaston : Alors vous viendrez quand même, et vous me raconterez pourquoi. Parfois, expliquer à quelqu'un pourquoi on bloque, c'est déjà commencer à écrire.\n(Clémence lui tend un billet de cinquante euros. Il emballe la machine dans un vieux journal.)\nGaston : Et n'oubliez pas : la touche « z » colle. Évitez les zèbres dans votre chapitre quatre.\nClémence : Promis. Mais je ne garantis rien pour les zigzags.",
+        "en": "Clémence: That's blackmail.\nGaston: That's publishing. I'll be your first reader, and my wife the second. She's very demanding, I warn you, especially about dialogue.\nClémence: And if I can't do it? If in a month I still haven't written anything?\nGaston: Then you'll come anyway, and you'll tell me why. Sometimes explaining to someone why you're stuck is already the beginning of writing.\n(Clémence hands him a fifty-euro note. He wraps the machine in an old newspaper.)\nGaston: And don't forget: the “z” key sticks. Avoid zebras in your chapter four.\nClémence: Promise. But I can't guarantee anything about zigzags."
+      }
+    ]
+  },
+  {
+    "id": "b2-coinces-dans-l-ascenseur",
+    "level": "B2",
+    "title": "Coincés dans l'ascenseur",
+    "englishTitle": "Stuck in the Lift",
+    "theme": "Conversation",
+    "description": "Two neighbours who communicate only through angry notes get stuck in the same lift.",
+    "imageQuery": "Two speech bubbles inside a stopped lift",
+    "bubbles": [
+      "Ne me dites pas qu'on est coincés.",
+      "Je crains que si."
+    ],
+    "paragraphs": [
+      {
+        "fr": "(Un immeuble parisien, un vendredi soir. L'ascenseur s'arrête brusquement entre le deuxième et le troisième étage.)\nLeïla : Non, non, non… Ne me dites pas qu'on est coincés.\nVincent : Je crains que si. J'appuie sur le bouton d'alarme. Voilà. Un technicien devrait arriver… d'ici une heure, d'après la voix enregistrée.\nLeïla : Une heure. Avec vous. C'est une blague ?\nVincent : Je vous rassure, madame Achour, la perspective ne m'enchante pas davantage. Mais puisque nous sommes là, nous pourrions peut-être nous comporter en adultes.",
+        "en": "(A Paris apartment building, one Friday evening. The lift suddenly stops between the second and third floors.)\nLeïla: No, no, no… Don't tell me we're stuck.\nVincent: I'm afraid we are. I'm pressing the alarm button. There. A technician should arrive… within an hour, according to the recorded voice.\nLeïla: An hour. With you. Is this a joke?\nVincent: I can assure you, Madame Achour, the prospect doesn't delight me any more than it does you. But since we're here, perhaps we could behave like adults."
+      },
+      {
+        "fr": "Leïla : Comme des adultes ? C'est vous qui avez collé un mot sur mon vélo, la semaine dernière : « Le hall n'est pas un garage. Merci de votre compréhension. » Avec trois points d'exclamation.\nVincent : Deux. Le troisième était une tache d'encre. Et je maintiens le fond, sinon la forme : votre vélo bloque l'accès aux boîtes aux lettres depuis septembre.\nLeïla : Parce que le local à vélos est fermé à clé depuis septembre, et que personne ne sait qui a la clé ! J'ai écrit trois fois au syndic. Vous croyez que ça m'amuse de laisser mon vélo dans le hall ?\nVincent : Le local est fermé ? Je l'ignorais complètement.",
+        "en": "Leïla: Like adults? You're the one who stuck a note on my bike last week: “The hall is not a garage. Thank you for your understanding.” With three exclamation marks.\nVincent: Two. The third was an ink stain. And I stand by the substance, if not the form: your bike has been blocking access to the letterboxes since September.\nLeïla: Because the bike room has been locked since September, and nobody knows who has the key! I've written to the building manager three times. Do you think I enjoy leaving my bike in the hall?\nVincent: The bike room is locked? I had absolutely no idea."
+      },
+      {
+        "fr": "Leïla : Évidemment, vous n'avez pas de vélo. Et pendant qu'on y est, parlons du piano.\nVincent : Le piano ? Quel piano ?\nLeïla : Vous avez glissé une lettre sous ma porte pour vous plaindre de « nuisances sonores répétées en soirée ». Je suis professeure de piano, monsieur Morel. Mes élèves viennent après l'école, entre cinq et sept heures. Ce n'est pas exactement une rave party.\nVincent : Je n'ai jamais écrit de lettre au sujet d'un piano. Je vous le jure. Le mot sur le vélo, oui, je l'assume, même si je le regrette un peu. Mais le piano… J'aime le piano. Le mercredi, j'ouvre même ma fenêtre pour mieux l'entendre.",
+        "en": "Leïla: Obviously, you don't have a bike. And while we're at it, let's talk about the piano.\nVincent: The piano? What piano?\nLeïla: You slipped a letter under my door complaining about “repeated noise disturbance in the evening”. I'm a piano teacher, Monsieur Morel. My pupils come after school, between five and seven. It's not exactly a rave.\nVincent: I've never written a letter about a piano. I swear. The note on the bike, yes, I own up to that, even if I regret it a little. But the piano… I like the piano. On Wednesdays, I even open my window to hear it better."
+      },
+      {
+        "fr": "(Un silence. Leïla sort la lettre de son sac et la lui tend.)\nVincent : Regardez la signature : « Le voisin du cinquième. » Moi, j'habite au quatrième. Le cinquième, c'est monsieur Lambert. Celui qui se plaint de tout : des pigeons, des poussettes, de l'odeur du marché le dimanche.\nLeïla : Et moi qui pensais depuis deux mois que c'était vous. Je vous ai même fusillé du regard à la boulangerie.\nVincent : J'avais remarqué. Je pensais que c'était à cause du vélo.\nLeïla : C'était à cause du piano. Le vélo, c'était seulement la cerise sur le gâteau.",
+        "en": "(A silence. Leïla takes the letter out of her bag and hands it to him.)\nVincent: Look at the signature: “The neighbour on the fifth floor.” I live on the fourth. The fifth is Monsieur Lambert. The one who complains about everything: the pigeons, the pushchairs, the smell of the market on Sundays.\nLeïla: And there I was, thinking for two months that it was you. I even glared at you in the bakery.\nVincent: I'd noticed. I thought it was because of the bike.\nLeïla: It was because of the piano. The bike was just the icing on the cake."
+      },
+      {
+        "fr": "Vincent : Je vous propose une trêve. Lundi, j'appelle le syndic au sujet du local à vélos. Je suis architecte, je sais parler aux syndics : il faut employer beaucoup de mots compliqués et menacer poliment d'une réunion.\nLeïla : Et moi, je vous invite au concert de fin d'année de mes élèves. Vous verrez, les « nuisances sonores » sont plutôt charmantes quand on les voit en vrai.\nVincent : Avec plaisir. Et pour monsieur Lambert ?\nLeïla : Pour monsieur Lambert, j'ai une idée. Je vais lui laisser un mot : « La vie n'est pas un règlement de copropriété. Merci de votre compréhension. »\nVincent : Avec trois points d'exclamation ?\nLeïla : Deux. Et une tache d'encre.\n(À ce moment-là, l'ascenseur se remet en marche. Ils échangent un regard, presque déçus.)",
+        "en": "Vincent: Let me propose a truce. On Monday, I'll call the building manager about the bike room. I'm an architect, I know how to talk to building managers: you have to use lots of complicated words and politely threaten a meeting.\nLeïla: And I'll invite you to my pupils' end-of-year concert. You'll see, “noise disturbances” are rather charming when you see them in person.\nVincent: With pleasure. And what about Monsieur Lambert?\nLeïla: For Monsieur Lambert, I have an idea. I'll leave him a note: “Life is not a set of building regulations. Thank you for your understanding.”\nVincent: With three exclamation marks?\nLeïla: Two. And an ink stain.\n(At that moment, the lift starts moving again. They exchange a look, almost disappointed.)"
+      }
+    ]
+  }
+]
