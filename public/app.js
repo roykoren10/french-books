@@ -49,6 +49,9 @@
     const savedOnly = params.get('view') === 'saved';
     const search = $('#story-search');
     const theme = $('#theme-filter');
+    const formatButton = $('[data-format]');
+    const startTheme = params.get('theme');
+    if (startTheme && [...theme.options].some(option => option.value === startTheme)) theme.value = startTheme;
     const cards = $$('.story-card');
     let current = cards;
     const hints = { all: 'Choose a level, follow your curiosity.', A2: 'Familiar words. Everyday adventures.', B1: 'Richer plots. Room to explore.', B2: 'Nuance, new ideas, and expressive French.' };
@@ -68,6 +71,7 @@
         return show;
       });
       $$('[data-level-filter]').forEach(button => button.setAttribute('aria-pressed', String(button.dataset.levelFilter === level)));
+      formatButton?.setAttribute('aria-pressed', String(theme.value === formatButton.dataset.format));
       $('#results-count').textContent = `${current.length} ${current.length === 1 ? 'story' : 'stories'}${level !== 'all' ? ` at ${level}` : ''}${savedOnly ? ' saved for later' : ' to get lost in'}`;
       $('#level-hint').textContent = hints[level];
       $('.empty-state').hidden = current.length > 0;
@@ -78,11 +82,13 @@
       $('.show-all').hidden = level === 'all' && theme.value === 'all' && !query;
       const url = new URL(location.href);
       if (level === 'all') url.searchParams.delete('level'); else url.searchParams.set('level', level);
+      if (theme.value === 'all') url.searchParams.delete('theme'); else url.searchParams.set('theme', theme.value);
       try { history.replaceState(null, '', url); } catch { /* Filtering does not depend on the URL. */ }
     };
     $$('[data-level-filter]').forEach(button => button.addEventListener('click', () => { level = button.dataset.levelFilter; filter(); }));
     search.addEventListener('input', filter);
     theme.addEventListener('change', filter);
+    formatButton?.addEventListener('click', () => { theme.value = theme.value === formatButton.dataset.format ? 'all' : formatButton.dataset.format; filter(); });
     $$('.show-all,.clear-filters').forEach(button => button.addEventListener('click', () => {
       if (savedOnly && saved.size === 0) { location.href = './#library'; return; }
       level = 'all'; theme.value = 'all'; search.value = ''; filter();
